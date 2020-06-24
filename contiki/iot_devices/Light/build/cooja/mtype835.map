@@ -1,0 +1,2825 @@
+Archive member included to satisfy reference by file (symbol)
+
+build/cooja/mtype835.a(simEnvChange.o)
+                              build/cooja/mtype835.o (simDontFallAsleep)
+build/cooja/mtype835.a(cooja_mt.o)
+                              build/cooja/mtype835.o (cooja_mt_start)
+build/cooja/mtype835.a(cooja_mtarch.o)
+                              build/cooja/mtype835.a(cooja_mt.o) (cooja_mtarch_start)
+build/cooja/mtype835.a(rtimer-arch.o)
+                              build/cooja/mtype835.o (rtimer_arch_check)
+build/cooja/mtype835.a(beep.o)
+                              build/cooja/mtype835.o (beep_interface)
+build/cooja/mtype835.a(leds-arch.o)
+                              build/cooja/mtype835.o (leds_interface)
+build/cooja/mtype835.a(moteid.o)
+                              build/cooja/mtype835.o (moteid_interface)
+build/cooja/mtype835.a(pir-sensor.o)
+                              build/cooja/mtype835.o (pir_interface)
+build/cooja/mtype835.a(rs232.o)
+                              build/cooja/mtype835.o (rs232_interface)
+build/cooja/mtype835.a(vib-sensor.o)
+                              build/cooja/mtype835.o (vib_interface)
+build/cooja/mtype835.a(clock.o)
+                              build/cooja/mtype835.o (clock_interface)
+build/cooja/mtype835.a(cooja-log.o)
+                              build/cooja/mtype835.o (simlog_interface)
+build/cooja/mtype835.a(cfs-cooja.o)
+                              build/cooja/mtype835.o (cfs_interface)
+build/cooja/mtype835.a(cooja-radio.o)
+                              build/cooja/mtype835.o (radio_interface)
+build/cooja/mtype835.a(eeprom.o)
+                              build/cooja/mtype835.o (eeprom_interface)
+build/cooja/mtype835.a(random.o)
+                              build/cooja/mtype835.a(moteid.o) (random_init)
+build/cooja/mtype835.a(sensors.o)
+                              build/cooja/mtype835.a(pir-sensor.o) (sensors_changed)
+build/cooja/mtype835.a(leds.o)
+                              build/cooja/mtype835.a(leds-arch.o) (leds_get)
+build/cooja/mtype835.a(gpio-hal-arch.o)
+                              build/cooja/mtype835.a(leds-arch.o) (gpio_hal_arch_register_pin_callback)
+build/cooja/mtype835.a(buttons.o)
+                              build/cooja/mtype835.o (button_interface)
+build/cooja/mtype835.a(res_bulbSwitch.)
+                              light_node.o (res_bulbSwitch)
+build/cooja/mtype835.a(res_light.o)
+                              light_node.o (res_light)
+build/cooja/mtype835.a(coap-blocking-a)
+                              light_node.o (coap_blocking_request)
+build/cooja/mtype835.a(coap-engine.o)
+                              light_node.o (coap_activate_resource)
+build/cooja/mtype835.a(coap-res-well-k)
+                              build/cooja/mtype835.a(coap-engine.o) (res_well_known_core)
+build/cooja/mtype835.a(coap-observe.o)
+                              build/cooja/mtype835.a(coap-engine.o) (coap_remove_observer_by_mid)
+build/cooja/mtype835.a(coap-uip.o)
+                              build/cooja/mtype835.a(coap-observe.o) (coap_endpoint_copy)
+build/cooja/mtype835.a(coap-timer.o)
+                              build/cooja/mtype835.a(coap-engine.o) (coap_timer_set)
+build/cooja/mtype835.a(coap-transactio)
+                              build/cooja/mtype835.a(coap-blocking-a) (coap_send_transaction)
+build/cooja/mtype835.a(coap.o)
+                              build/cooja/mtype835.a(coap-engine.o) (coap_status_code)
+build/cooja/mtype835.a(contiki-main.o)
+                              build/cooja/mtype835.o (main)
+build/cooja/mtype835.a(autostart.o)
+                              build/cooja/mtype835.a(contiki-main.o) (autostart_start)
+build/cooja/mtype835.a(ctimer.o)
+                              build/cooja/mtype835.a(contiki-main.o) (ctimer_init)
+build/cooja/mtype835.a(log.o)
+                              build/cooja/mtype835.a(contiki-main.o) (curr_log_level_main)
+build/cooja/mtype835.a(energest.o)
+                              build/cooja/mtype835.a(contiki-main.o) (energest_init)
+build/cooja/mtype835.a(etimer.o)
+                              build/cooja/mtype835.a(contiki-main.o) (etimer_process)
+build/cooja/mtype835.a(node-id.o)
+                              build/cooja/mtype835.a(contiki-main.o) (node_id)
+build/cooja/mtype835.a(rtimer.o)
+                              build/cooja/mtype835.a(contiki-main.o) (rtimer_init)
+build/cooja/mtype835.a(process.o)
+                              build/cooja/mtype835.a(coap-blocking-a) (process_current)
+build/cooja/mtype835.a(timer.o)
+                              build/cooja/mtype835.a(etimer.o) (timer_set)
+build/cooja/mtype835.a(list.o)
+                              build/cooja/mtype835.a(coap-engine.o) (list_init)
+build/cooja/mtype835.a(memb.o)
+                              build/cooja/mtype835.a(coap-observe.o) (memb_alloc)
+build/cooja/mtype835.a(button-hal.o)
+                              build/cooja/mtype835.o (button_hal_init)
+build/cooja/mtype835.a(serial-line.o)
+                              build/cooja/mtype835.a(rs232.o) (serial_line_input_byte)
+build/cooja/mtype835.a(gpio-hal.o)
+                              build/cooja/mtype835.a(button-hal.o) (gpio_hal_register_handler)
+build/cooja/mtype835.a(queuebuf.o)
+                              build/cooja/mtype835.a(contiki-main.o) (queuebuf_init)
+build/cooja/mtype835.a(packetbuf.o)
+                              build/cooja/mtype835.a(cooja-radio.o) (packetbuf_clear)
+build/cooja/mtype835.a(netstack.o)
+                              build/cooja/mtype835.a(contiki-main.o) (netstack_init)
+build/cooja/mtype835.a(linkaddr.o)
+                              build/cooja/mtype835.a(contiki-main.o) (linkaddr_node_addr)
+build/cooja/mtype835.a(csma.o)
+                              build/cooja/mtype835.a(cooja-radio.o) (csma_driver)
+build/cooja/mtype835.a(csma-output.o)
+                              build/cooja/mtype835.a(csma.o) (csma_output_packet)
+build/cooja/mtype835.a(uip-ds6.o)
+                              build/cooja/mtype835.a(contiki-main.o) (uip_ds6_get_link_local)
+build/cooja/mtype835.a(uip-udp-packet.)
+                              build/cooja/mtype835.a(coap-uip.o) (uip_udp_packet_sendto)
+build/cooja/mtype835.a(uip-ds6-route.o)
+                              build/cooja/mtype835.a(uip-ds6.o) (uip_ds6_route_init)
+build/cooja/mtype835.a(tcpip.o)
+                              build/cooja/mtype835.a(coap-uip.o) (tcpip_event)
+build/cooja/mtype835.a(uip6.o)
+                              build/cooja/mtype835.a(contiki-main.o) (uip_lladdr)
+build/cooja/mtype835.a(uip-ds6-nbr.o)
+                              build/cooja/mtype835.a(uip-ds6.o) (uip_ds6_neighbors_init)
+build/cooja/mtype835.a(uip-nd6.o)
+                              build/cooja/mtype835.a(uip6.o) (uip_nd6_init)
+build/cooja/mtype835.a(sicslowpan.o)
+                              build/cooja/mtype835.a(contiki-main.o) (sicslowpan_driver)
+build/cooja/mtype835.a(uiplib.o)
+                              build/cooja/mtype835.a(coap-uip.o) (uiplib_ip6addrconv)
+build/cooja/mtype835.a(rpl.o)
+                              build/cooja/mtype835.a(coap-uip.o) (rpl_lite_driver)
+build/cooja/mtype835.a(rpl-icmp6.o)
+                              build/cooja/mtype835.a(rpl.o) (rpl_icmp6_init)
+build/cooja/mtype835.a(rpl-dag-root.o)
+                              build/cooja/mtype835.a(rpl.o) (rpl_dag_root_is_root)
+build/cooja/mtype835.a(watchdog.o)
+                              build/cooja/mtype835.a(contiki-main.o) (watchdog_init)
+build/cooja/mtype835.a(int-master.o)
+                              build/cooja/mtype835.a(button-hal.o) (int_master_read_and_disable)
+build/cooja/mtype835.a(coap-timer-defa)
+                              build/cooja/mtype835.a(coap-timer.o) (coap_timer_default_driver)
+build/cooja/mtype835.a(stimer.o)
+                              build/cooja/mtype835.a(uip-ds6.o) (stimer_set)
+build/cooja/mtype835.a(ringbuf.o)
+                              build/cooja/mtype835.a(serial-line.o) (ringbuf_init)
+build/cooja/mtype835.a(assert.o)
+                              build/cooja/mtype835.a(csma-output.o) (_xassert)
+build/cooja/mtype835.a(nbr-table.o)
+                              build/cooja/mtype835.a(uip-ds6-nbr.o) (nbr_table_register)
+build/cooja/mtype835.a(link-stats.o)
+                              build/cooja/mtype835.a(sicslowpan.o) (link_stats_packet_sent)
+build/cooja/mtype835.a(mac-sequence.o)
+                              build/cooja/mtype835.a(csma.o) (mac_sequence_is_duplicate)
+build/cooja/mtype835.a(mac.o)
+                              build/cooja/mtype835.a(csma-output.o) (mac_call_sent_callback)
+build/cooja/mtype835.a(framer-802154.o)
+                              build/cooja/mtype835.a(csma.o) (framer_802154)
+build/cooja/mtype835.a(frame802154.o)
+                              build/cooja/mtype835.a(framer-802154.o) (frame802154_get_pan_id)
+build/cooja/mtype835.a(csma-security.o)
+                              build/cooja/mtype835.a(csma-output.o) (csma_security_create_frame)
+build/cooja/mtype835.a(uipbuf.o)
+                              build/cooja/mtype835.a(tcpip.o) (uipbuf_clear)
+build/cooja/mtype835.a(uip-icmp6.o)
+                              build/cooja/mtype835.a(uip6.o) (uip_icmp6_input)
+build/cooja/mtype835.a(uip-sr.o)
+                              build/cooja/mtype835.a(rpl-dag-root.o) (uip_sr_num_nodes)
+build/cooja/mtype835.a(uip-packetqueue)
+                              build/cooja/mtype835.a(uip-ds6-nbr.o) (uip_packetqueue_new)
+build/cooja/mtype835.a(rpl-nbr-policy.)
+                              build/cooja/mtype835.a(nbr-table.o) (rpl_nbr_policy_find_removable)
+build/cooja/mtype835.a(rpl-neighbor.o)
+                              build/cooja/mtype835.a(rpl-icmp6.o) (rpl_neighbor_get_ipaddr)
+build/cooja/mtype835.a(rpl-dag.o)
+                              build/cooja/mtype835.a(rpl.o) (curr_instance)
+build/cooja/mtype835.a(rpl-timers.o)
+                              build/cooja/mtype835.a(rpl-dag.o) (rpl_timers_schedule_periodic_dis)
+build/cooja/mtype835.a(rpl-ext-header.)
+                              build/cooja/mtype835.a(rpl.o) (rpl_ext_header_srh_get_next_hop)
+build/cooja/mtype835.a(rpl-mrhof.o)
+                              build/cooja/mtype835.a(rpl-dag.o) (rpl_mrhof)
+/usr/lib/gcc/i686-linux-gnu/5/libgcc.a(_udivdi3.o)
+                              build/cooja/mtype835.a(coap-timer-defa) (__udivdi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+simButtonIsDown     0x1               build/cooja/mtype835.a(buttons.o)
+simOutDataBuffer    0x7d              build/cooja/mtype835.a(cooja-radio.o)
+uip_ds6_prefix_list
+                    0x60              build/cooja/mtype835.a(uip-ds6.o)
+linkaddr_node_addr  0x8               build/cooja/mtype835.a(linkaddr.o)
+simSerialReceivingFlag
+                    0x1               build/cooja/mtype835.a(rs232.o)
+simEEPROMData       0x400             build/cooja/mtype835.a(eeprom.o)
+periodic_timer      0x20              build/cooja/mtype835.a(link-stats.o)
+simLoggedLength     0x4               build/cooja/mtype835.a(cooja-log.o)
+simSerialReceivingLength
+                    0x4               build/cooja/mtype835.a(rs232.o)
+simEtimerPending    0x4               build/cooja/mtype835.a(simEnvChange.o)
+uip_slen            0x2               build/cooja/mtype835.a(uip6.o)
+uip_ds6_timer_periodic
+                    0x10              build/cooja/mtype835.a(uip-ds6.o)
+eb_per_time_source  0x18              build/cooja/mtype835.a(contiki-main.o)
+unicast_per_neighbor_rpl_storing
+                    0x18              build/cooja/mtype835.a(contiki-main.o)
+simVibChanged       0x1               build/cooja/mtype835.a(vib-sensor.o)
+simRtimerPending    0x4               build/cooja/mtype835.a(rtimer-arch.o)
+button_hal_periodic_event
+                    0x1               build/cooja/mtype835.a(button-hal.o)
+uip_ds6_netif_addr_list_offset
+                    0x1               build/cooja/mtype835.a(uip-ds6.o)
+uip_lladdr          0x8               build/cooja/mtype835.a(uip6.o)
+button_hal_press_event
+                    0x1               build/cooja/mtype835.a(button-hal.o)
+simProcessRunValue  0x4               build/cooja/mtype835.a(simEnvChange.o)
+serial_line_event_message
+                    0x1               build/cooja/mtype835.a(serial-line.o)
+uip_appdata         0x4               build/cooja/mtype835.a(uip6.o)
+referenceVar        0x4               build/cooja/mtype835.o
+simCurrentTime      0x4               build/cooja/mtype835.a(clock.o)
+simVibIsActive      0x1               build/cooja/mtype835.a(vib-sensor.o)
+unicast_per_neighbor_rpl_ns
+                    0x18              build/cooja/mtype835.a(contiki-main.o)
+uip_ds6_if          0xf8              build/cooja/mtype835.a(uip-ds6.o)
+uip_flags           0x1               build/cooja/mtype835.a(uip6.o)
+uip_ds6_timer_ra    0x8               build/cooja/mtype835.a(uip-ds6.o)
+default_common      0x18              build/cooja/mtype835.a(contiki-main.o)
+simSerialReceivingData
+                    0x800             build/cooja/mtype835.a(rs232.o)
+simLoggedFlag       0x1               build/cooja/mtype835.a(cooja-log.o)
+packetbuf_attrs     0x1a              build/cooja/mtype835.a(packetbuf.o)
+uip_ds6_addr_size   0x1               build/cooja/mtype835.a(uip-ds6.o)
+uip_aligned_buf     0x500             build/cooja/mtype835.a(uip6.o)
+simRtimerCurrentTicks
+                    0x8               build/cooja/mtype835.a(rtimer-arch.o)
+simRandomSeed       0x4               build/cooja/mtype835.a(moteid.o)
+rpl_multicast_addr  0x10              build/cooja/mtype835.a(rpl.o)
+simLoggedData       0x2000            build/cooja/mtype835.a(cooja-log.o)
+simEtimerNextExpirationTime
+                    0x4               build/cooja/mtype835.a(simEnvChange.o)
+uip_len             0x2               build/cooja/mtype835.a(uip6.o)
+simButtonChanged    0x1               build/cooja/mtype835.a(buttons.o)
+simRtimerNextExpirationTime
+                    0x8               build/cooja/mtype835.a(rtimer-arch.o)
+simPirIsActive      0x1               build/cooja/mtype835.a(pir-sensor.o)
+simInDataBuffer     0x7d              build/cooja/mtype835.a(cooja-radio.o)
+simPirChanged       0x1               build/cooja/mtype835.a(pir-sensor.o)
+simBeeped           0x1               build/cooja/mtype835.a(beep.o)
+tcpip_event         0x1               build/cooja/mtype835.a(tcpip.o)
+uip_sappdata        0x4               build/cooja/mtype835.a(uip6.o)
+sensors_event       0x1               build/cooja/mtype835.a(sensors.o)
+uip_udp_conns       0x100             build/cooja/mtype835.a(uip6.o)
+button_hal_release_event
+                    0x1               build/cooja/mtype835.a(button-hal.o)
+packetbuf_addrs     0x10              build/cooja/mtype835.a(packetbuf.o)
+uip_udp_conn        0x4               build/cooja/mtype835.a(uip6.o)
+simMoteIDChanged    0x1               build/cooja/mtype835.a(moteid.o)
+sensors_flags       0x4               build/cooja/mtype835.o
+curr_instance       0x164             build/cooja/mtype835.a(rpl-dag.o)
+simMoteID           0x4               build/cooja/mtype835.a(moteid.o)
+uip_conn            0x4               build/cooja/mtype835.a(uip6.o)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ .group         0x0000000000000000        0x8 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+ .group         0x0000000000000000        0x8 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+ .text.__x86.get_pc_thunk.bx
+                0x0000000000000000        0x4 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 light_node.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(simEnvChange.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(cooja_mt.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(cooja_mtarch.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rtimer-arch.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(beep.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(leds-arch.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(moteid.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(pir-sensor.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rs232.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(vib-sensor.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(clock.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(cooja-log.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(cfs-cooja.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(cooja-radio.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(eeprom.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(random.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(sensors.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(leds.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(gpio-hal-arch.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(buttons.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(res_bulbSwitch.)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(res_light.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(coap-blocking-a)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(coap-engine.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(coap-res-well-k)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(coap-observe.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(coap-uip.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(coap-timer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(coap-transactio)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(coap.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(contiki-main.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(autostart.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(ctimer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(log.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(energest.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(etimer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(node-id.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rtimer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(process.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(timer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(list.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(memb.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(button-hal.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(serial-line.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(gpio-hal.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(queuebuf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(packetbuf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(netstack.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(linkaddr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(csma.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(csma-output.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uip-ds6.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uip-udp-packet.)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uip-ds6-route.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(tcpip.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uip6.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uip-ds6-nbr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uip-nd6.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(sicslowpan.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uiplib.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rpl.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rpl-icmp6.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rpl-dag-root.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(watchdog.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(int-master.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(coap-timer-defa)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(stimer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(ringbuf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(assert.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(nbr-table.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(link-stats.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(mac-sequence.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(mac.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(framer-802154.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(frame802154.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(csma-security.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uipbuf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uip-icmp6.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uip-sr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(uip-packetqueue)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rpl-nbr-policy.)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rpl-neighbor.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rpl-dag.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rpl-timers.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rpl-ext-header.)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja/mtype835.a(rpl-mrhof.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/5/libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/5/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+LOAD /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+LOAD light_node.o
+LOAD build/cooja/mtype835.o
+LOAD build/cooja/mtype835.a
+LOAD /usr/lib/gcc/i686-linux-gnu/5/libgcc.a
+LOAD /usr/lib/gcc/i686-linux-gnu/5/libgcc_s.so
+LOAD /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/libc.so
+START GROUP
+LOAD /lib/i386-linux-gnu/libc.so.6
+LOAD /usr/lib/i386-linux-gnu/libc_nonshared.a
+LOAD /lib/i386-linux-gnu/ld-linux.so.2
+END GROUP
+LOAD /usr/lib/gcc/i686-linux-gnu/5/libgcc.a
+LOAD /usr/lib/gcc/i686-linux-gnu/5/libgcc_s.so
+LOAD /usr/lib/gcc/i686-linux-gnu/5/crtendS.o
+LOAD /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crtn.o
+                0x0000000000000114                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x0000000000000114       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000000114       0x24 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x0000000000000138     0x158c
+ *(.gnu.hash)
+ .gnu.hash      0x0000000000000138     0x158c /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+
+.dynsym         0x00000000000016c4     0x2eb0
+ *(.dynsym)
+ .dynsym        0x00000000000016c4     0x2eb0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+
+.dynstr         0x0000000000004574     0x3675
+ *(.dynstr)
+ .dynstr        0x0000000000004574     0x3675 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+
+.gnu.version    0x0000000000007bea      0x5d6
+ *(.gnu.version)
+ .gnu.version   0x0000000000007bea      0x5d6 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+
+.gnu.version_d  0x00000000000081c0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000000081c0        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+
+.gnu.version_r  0x00000000000081c0       0x40
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000081c0       0x40 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+
+.rel.dyn        0x0000000000008200     0x9070
+ *(.rel.init)
+ .rel.init      0x0000000000008200        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text      0x0000000000008200     0x86a8 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ *(.rel.fini)
+ .rel.fini      0x00000000000108a8        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ .rel.rodata    0x00000000000108a8      0x588 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel.local
+                0x0000000000010e30        0x8 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ .rel.data      0x0000000000010e38      0x400 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000000000011238       0x28 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x0000000000011260        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ .rel.fini_array
+                0x0000000000011260        0x8 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ .rel.init_array
+                0x0000000000011268        0x8 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+
+.rel.plt        0x0000000000011270        0x0
+ *(.rel.plt)
+ .rel.plt       0x0000000000011270        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ *(.rel.iplt)
+
+.init           0x0000000000011270       0x23
+ *(SORT(.init))
+ .init          0x0000000000011270       0x1e /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+                0x0000000000011270                _init
+ .init          0x000000000001128e        0x5 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crtn.o
+
+.plt            0x00000000000112a0       0x10
+ *(.plt)
+ .plt           0x00000000000112a0       0x10 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x00000000000112b0       0x10
+ *(.plt.got)
+ .plt.got       0x00000000000112b0       0x10 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+
+.text           0x00000000000112c0    0x18632
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ .text.unlikely
+                0x00000000000112c0        0x0 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+ .text.unlikely
+                0x00000000000112c0        0x0 /usr/lib/gcc/i686-linux-gnu/5/libgcc.a(_udivdi3.o)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000112c0        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ .gnu.linkonce.t.__x86.get_pc_thunk.bx
+                0x00000000000112c0        0x4 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+                0x00000000000112c0                __x86.get_pc_thunk.bx
+ *fill*         0x00000000000112c4        0xc 
+ .text          0x00000000000112d0      0x11c /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+ .text.__x86.get_pc_thunk.dx
+                0x00000000000113ec        0x4 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+                0x00000000000113ec                __x86.get_pc_thunk.dx
+ .text          0x00000000000113f0      0x168 light_node.o
+ .text          0x0000000000011558      0x283 build/cooja/mtype835.o
+                0x00000000000115ea                platform_init_stage_one
+                0x00000000000115fd                platform_init_stage_two
+                0x0000000000011610                platform_init_stage_three
+                0x0000000000011623                platform_main_loop
+                0x0000000000011696                Java_org_contikios_cooja_corecomm_Lib12_init
+                0x00000000000116cd                Java_org_contikios_cooja_corecomm_Lib12_getMemory
+                0x0000000000011700                Java_org_contikios_cooja_corecomm_Lib12_setMemory
+                0x0000000000011760                Java_org_contikios_cooja_corecomm_Lib12_tick
+                0x00000000000117c8                Java_org_contikios_cooja_corecomm_Lib12_setReferenceAddress
+ .text          0x00000000000117db       0x65 build/cooja/mtype835.a(simEnvChange.o)
+                0x00000000000117db                doActionsBeforeTick
+                0x000000000001180d                doActionsAfterTick
+ .text          0x0000000000011840       0x83 build/cooja/mtype835.a(cooja_mt.o)
+                0x0000000000011840                cooja_mt_start
+                0x000000000001186a                cooja_mt_exec
+                0x00000000000118a0                cooja_mt_yield
+ .text          0x00000000000118c3       0xbe build/cooja/mtype835.a(cooja_mtarch.o)
+                0x00000000000118c3                cooja_mtarch_start
+                0x0000000000011936                cooja_sw
+                0x0000000000011959                cooja_mtarch_exec
+                0x0000000000011976                cooja_mtarch_yield
+ .text          0x0000000000011981       0xc5 build/cooja/mtype835.a(rtimer-arch.o)
+                0x0000000000011981                rtimer_arch_init
+                0x00000000000119a5                rtimer_arch_schedule
+                0x00000000000119d5                rtimer_arch_next
+                0x00000000000119e5                rtimer_arch_pending
+                0x00000000000119ef                rtimer_arch_check
+                0x0000000000011a36                rtimer_arch_now
+ .text          0x0000000000011a46       0x81 build/cooja/mtype835.a(beep.o)
+                0x0000000000011a46                beep_alarm
+                0x0000000000011a53                beep_beep
+                0x0000000000011a60                beep
+                0x0000000000011a6d                beep_down
+                0x0000000000011a7a                beep_on
+                0x0000000000011a87                beep_off
+                0x0000000000011a94                beep_spinup
+                0x0000000000011aa1                beep_quick
+                0x0000000000011aae                beep_long
+ .text          0x0000000000011ac7       0x65 build/cooja/mtype835.a(leds-arch.o)
+                0x0000000000011ada                leds_arch_init
+ .text          0x0000000000011b2c       0x35 build/cooja/mtype835.a(moteid.o)
+ .text          0x0000000000011b61       0xb7 build/cooja/mtype835.a(pir-sensor.o)
+ .text          0x0000000000011c18      0x148 build/cooja/mtype835.a(rs232.o)
+                0x0000000000011c18                rs232_init
+                0x0000000000011c1e                rs232_set_speed
+                0x0000000000011c2d                rs232_set_input
+                0x0000000000011c3b                rs232_send
+                0x0000000000011c5f                rs232_print
+                0x0000000000011c7b                slip_arch_writeb
+ .text          0x0000000000011d60       0xb7 build/cooja/mtype835.a(vib-sensor.o)
+ .text          0x0000000000011e17       0x38 build/cooja/mtype835.a(clock.o)
+                0x0000000000011e17                clock_init
+                0x0000000000011e1d                clock_time
+                0x0000000000011e27                clock_seconds
+                0x0000000000011e3d                clock_delay
+ .text          0x0000000000011e4f      0x219 build/cooja/mtype835.a(cooja-log.o)
+                0x0000000000011e4f                simlog_char
+                0x0000000000011e92                simlog
+                0x0000000000011f08                log_message
+                0x0000000000011f39                log_set_putchar_with_slip
+                0x0000000000011f47                log_putchar
+                0x0000000000011fc2                log_puts
+                0x0000000000011fea                log_printf
+ .text          0x0000000000012068      0x2b9 build/cooja/mtype835.a(cfs-cooja.o)
+                0x0000000000012068                cfs_open
+                0x00000000000120d1                cfs_close
+                0x00000000000120de                cfs_read
+                0x0000000000012173                cfs_write
+                0x000000000001224f                cfs_seek
+                0x00000000000122d7                cfs_remove
+                0x00000000000122fb                cfs_opendir
+                0x0000000000012305                cfs_readdir
+                0x000000000001230f                cfs_closedir
+ .text          0x0000000000012321      0x620 build/cooja/mtype835.a(cooja-radio.o)
+                0x0000000000012363                radio_set_channel
+                0x0000000000012371                radio_set_txpower
+                0x0000000000012389                radio_signal_strength_last
+                0x0000000000012393                radio_signal_strength_current
+                0x000000000001239d                radio_LQI
+ .text          0x0000000000012941       0xee build/cooja/mtype835.a(eeprom.o)
+                0x0000000000012941                eeprom_init
+                0x0000000000012947                eeprom_read
+                0x00000000000129b5                eeprom_write
+ .text          0x0000000000012a2f       0x2d build/cooja/mtype835.a(random.o)
+                0x0000000000012a2f                random_init
+                0x0000000000012a4f                random_rand
+ .text          0x0000000000012a5c      0x29c build/cooja/mtype835.a(sensors.o)
+                0x0000000000012a97                sensors_first
+                0x0000000000012aa1                sensors_next
+                0x0000000000012abb                sensors_changed
+                0x0000000000012aef                sensors_find
+ .text          0x0000000000012cf8      0x349 build/cooja/mtype835.a(leds.o)
+                0x0000000000012cf8                leds_init
+                0x0000000000012d3f                leds_single_on
+                0x0000000000012d9e                leds_single_off
+                0x0000000000012dfd                leds_single_toggle
+                0x0000000000012e2f                leds_on
+                0x0000000000012eb1                leds_off
+                0x0000000000012f33                leds_toggle
+                0x0000000000012f88                leds_set
+                0x0000000000012fb4                leds_get
+ .text          0x0000000000013041      0x343 build/cooja/mtype835.a(gpio-hal-arch.o)
+                0x0000000000013041                gpio_hal_arch_register_pin_callback
+                0x00000000000130ad                gpio_hal_arch_init
+                0x00000000000130f2                gpio_hal_arch_no_port_interrupt_enable
+                0x0000000000013122                gpio_hal_arch_no_port_interrupt_disable
+                0x0000000000013152                gpio_hal_arch_no_port_pin_cfg_set
+                0x0000000000013177                gpio_hal_arch_no_port_pin_cfg_get
+                0x000000000001319d                gpio_hal_arch_no_port_pin_set_input
+                0x00000000000131af                gpio_hal_arch_no_port_pin_set_output
+                0x00000000000131c1                gpio_hal_arch_no_port_set_pin
+                0x00000000000131e2                gpio_hal_arch_no_port_clear_pin
+                0x0000000000013203                gpio_hal_arch_no_port_read_pin
+                0x0000000000013229                gpio_hal_arch_no_port_write_pin
+                0x0000000000013253                gpio_hal_arch_no_port_set_pins
+                0x000000000001329a                gpio_hal_arch_no_port_clear_pins
+                0x00000000000132e1                gpio_hal_arch_no_port_read_pins
+                0x0000000000013324                gpio_hal_arch_no_port_write_pins
+ .text          0x0000000000013384       0x89 build/cooja/mtype835.a(buttons.o)
+ .text          0x000000000001340d      0x297 build/cooja/mtype835.a(res_bulbSwitch.)
+ .text          0x00000000000136a4      0x172 build/cooja/mtype835.a(res_light.o)
+ .text          0x0000000000013816      0x27b build/cooja/mtype835.a(coap-blocking-a)
+                0x0000000000013816                coap_blocking_request_callback
+                0x0000000000013840                coap_blocking_request
+ .text          0x0000000000013a91      0xbea build/cooja/mtype835.a(coap-engine.o)
+                0x0000000000013b26                coap_add_handler
+                0x0000000000013b43                coap_remove_handler
+                0x0000000000013b60                coap_call_handlers
+                0x0000000000013c68                coap_receive
+                0x0000000000014263                coap_engine_init
+                0x00000000000142c1                coap_activate_resource
+                0x000000000001436c                coap_get_first_resource
+                0x0000000000014385                coap_get_next_resource
+ .text          0x000000000001467b      0x2d9 build/cooja/mtype835.a(coap-res-well-k)
+ .text          0x0000000000014954      0x96a build/cooja/mtype835.a(coap-observe.o)
+                0x0000000000014a69                coap_remove_observer
+                0x0000000000014a99                coap_remove_observer_by_client
+                0x0000000000014b01                coap_remove_observer_by_token
+                0x0000000000014b94                coap_remove_observer_by_uri
+                0x0000000000014c3b                coap_remove_observer_by_mid
+                0x0000000000014cb7                coap_notify_observers
+                0x0000000000014cd0                coap_notify_observers_sub
+                0x000000000001513a                coap_observe_handler
+                0x0000000000015255                coap_has_observers
+ .text          0x00000000000152be      0x733 build/cooja/mtype835.a(coap-uip.o)
+                0x00000000000152be                coap_endpoint_log
+                0x0000000000015344                coap_endpoint_print
+                0x00000000000153ca                coap_endpoint_snprint
+                0x00000000000154fd                coap_endpoint_copy
+                0x000000000001553a                coap_endpoint_cmp
+                0x0000000000015648                coap_endpoint_parse
+                0x0000000000015833                coap_endpoint_is_secure
+                0x0000000000015842                coap_endpoint_is_connected
+                0x0000000000015876                coap_endpoint_connect
+                0x0000000000015892                coap_endpoint_disconnect
+                0x0000000000015898                coap_databuf
+                0x00000000000158a2                coap_transport_init
+                0x00000000000158f2                coap_sendto
+ .text          0x00000000000159f1      0x324 build/cooja/mtype835.a(coap-timer.o)
+                0x0000000000015aee                coap_timer_stop
+                0x0000000000015b19                coap_timer_set
+                0x0000000000015b5c                coap_timer_reset
+                0x0000000000015b9f                coap_timer_time_to_next_expiration
+                0x0000000000015c0b                coap_timer_run
+                0x0000000000015cd7                coap_timer_init
+ .text          0x0000000000015d15      0x2c6 build/cooja/mtype835.a(coap-transactio)
+                0x0000000000015d7b                coap_new_transaction
+                0x0000000000015de1                coap_send_transaction
+                0x0000000000015f42                coap_clear_transaction
+                0x0000000000015f8a                coap_get_transaction_by_mid
+ .text          0x0000000000015fdb     0x1c53 build/cooja/mtype835.a(coap.o)
+                0x0000000000016548                coap_init_connection
+                0x000000000001655c                coap_get_mid
+                0x0000000000016578                coap_init_message
+                0x00000000000165c1                coap_serialize_message
+                0x0000000000016c43                coap_parse_message
+                0x00000000000172aa                coap_get_query_variable
+                0x00000000000172ec                coap_get_post_variable
+                0x0000000000017330                coap_set_status_code
+                0x0000000000017355                coap_set_token
+                0x000000000001739c                coap_get_header_content_format
+                0x00000000000173cd                coap_set_header_content_format
+                0x00000000000173f0                coap_get_header_accept
+                0x0000000000017421                coap_set_header_accept
+                0x0000000000017444                coap_get_header_max_age
+                0x0000000000017475                coap_set_header_max_age
+                0x0000000000017495                coap_get_header_etag
+                0x00000000000174c7                coap_set_header_etag
+                0x000000000001751e                coap_get_header_if_match
+                0x0000000000017550                coap_set_header_if_match
+                0x00000000000175a7                coap_get_header_if_none_match
+                0x00000000000175c1                coap_set_header_if_none_match
+                0x00000000000175d8                coap_get_header_proxy_uri
+                0x0000000000017606                coap_set_header_proxy_uri
+                0x0000000000017643                coap_get_header_uri_host
+                0x0000000000017671                coap_set_header_uri_host
+                0x00000000000176ae                coap_get_header_uri_path
+                0x00000000000176dc                coap_set_header_uri_path
+                0x0000000000017729                coap_get_header_uri_query
+                0x000000000001775d                coap_set_header_uri_query
+                0x00000000000177b3                coap_get_header_location_path
+                0x00000000000177e1                coap_set_header_location_path
+                0x000000000001787a                coap_get_header_location_query
+                0x00000000000178a8                coap_set_header_location_query
+                0x00000000000178f5                coap_get_header_observe
+                0x0000000000017924                coap_set_header_observe
+                0x0000000000017944                coap_get_header_block2
+                0x00000000000179b0                coap_set_header_block2
+                0x0000000000017a27                coap_get_header_block1
+                0x0000000000017a9c                coap_set_header_block1
+                0x0000000000017b17                coap_get_header_size2
+                0x0000000000017b47                coap_set_header_size2
+                0x0000000000017b6a                coap_get_header_size1
+                0x0000000000017b9a                coap_set_header_size1
+                0x0000000000017bbd                coap_get_payload
+                0x0000000000017bf7                coap_set_payload
+ .text          0x0000000000017c2e      0x332 build/cooja/mtype835.a(contiki-main.o)
+                0x0000000000017c2e                main
+ .text          0x0000000000017f60       0x92 build/cooja/mtype835.a(autostart.o)
+                0x0000000000017f60                autostart_start
+                0x0000000000017faa                autostart_exit
+ .text          0x0000000000017ff2      0x355 build/cooja/mtype835.a(ctimer.o)
+                0x000000000001811a                ctimer_init
+                0x000000000001814d                ctimer_set
+                0x0000000000018173                ctimer_set_with_process
+                0x00000000000181f0                ctimer_reset
+                0x0000000000018244                ctimer_restart
+                0x0000000000018298                ctimer_stop
+                0x00000000000182e8                ctimer_expired
+ .text          0x0000000000018347      0x394 build/cooja/mtype835.a(log.o)
+                0x0000000000018347                log_6addr
+                0x000000000001839a                log_6addr_compact_snprint
+                0x0000000000018438                log_6addr_compact
+                0x000000000001848b                log_lladdr
+                0x00000000000184fd                log_lladdr_compact
+                0x0000000000018565                log_set_level
+                0x0000000000018620                log_get_level
+                0x0000000000018699                log_level_to_str
+ .text          0x00000000000186db       0x1b build/cooja/mtype835.a(energest.o)
+                0x00000000000186db                energest_init
+                0x00000000000186e1                energest_flush
+                0x00000000000186e7                energest_get_total_time
+ .text          0x00000000000186f6      0x43f build/cooja/mtype835.a(etimer.o)
+                0x000000000001891a                etimer_request_poll
+                0x00000000000189a3                etimer_set
+                0x00000000000189cc                etimer_reset_with_new_interval
+                0x00000000000189fb                etimer_reset
+                0x0000000000018a21                etimer_restart
+                0x0000000000018a47                etimer_adjust
+                0x0000000000018a64                etimer_expired
+                0x0000000000018a77                etimer_expiration_time
+                0x0000000000018a89                etimer_start_time
+                0x0000000000018a93                etimer_pending
+                0x0000000000018aa5                etimer_next_expiration_time
+                0x0000000000018abf                etimer_stop
+ .text          0x0000000000018b35       0x25 build/cooja/mtype835.a(node-id.o)
+                0x0000000000018b35                node_id_init
+ .text          0x0000000000018b5a       0xeb build/cooja/mtype835.a(rtimer.o)
+                0x0000000000018b5a                rtimer_init
+                0x0000000000018b68                rtimer_set
+                0x0000000000018be3                rtimer_run_next
+ .text          0x0000000000018c45      0x4fb build/cooja/mtype835.a(process.o)
+                0x0000000000018c45                process_alloc_event
+                0x0000000000018c5a                process_start
+                0x0000000000018e34                process_exit
+                0x0000000000018e51                process_init
+                0x0000000000018fe6                process_run
+                0x0000000000019019                process_nevents
+                0x0000000000019034                process_post
+                0x00000000000190c7                process_post_synch
+                0x00000000000190fc                process_poll
+                0x000000000001912c                process_is_running
+ .text          0x0000000000019140       0xb1 build/cooja/mtype835.a(timer.o)
+                0x0000000000019140                timer_set
+                0x000000000001915e                timer_reset
+                0x000000000001918b                timer_restart
+                0x00000000000191a0                timer_expired
+                0x00000000000191cd                timer_remaining
+ .text          0x00000000000191f1      0x28f build/cooja/mtype835.a(list.o)
+                0x00000000000191f1                list_init
+                0x0000000000019200                list_head
+                0x000000000001920a                list_copy
+                0x000000000001921a                list_tail
+                0x0000000000019250                list_add
+                0x000000000001929c                list_push
+                0x00000000000192c8                list_chop
+                0x0000000000019332                list_pop
+                0x000000000001935a                list_remove
+                0x00000000000193c2                list_length
+                0x00000000000193f0                list_insert
+                0x0000000000019435                list_item_next
+                0x000000000001944c                list_contains
+ .text          0x0000000000019480      0x1b5 build/cooja/mtype835.a(memb.o)
+                0x0000000000019480                memb_init
+                0x00000000000194d5                memb_alloc
+                0x0000000000019538                memb_free
+                0x00000000000195af                memb_inmemb
+                0x00000000000195ee                memb_numfree
+ .text          0x0000000000019635      0x41c build/cooja/mtype835.a(button-hal.o)
+                0x00000000000197ae                button_hal_get_by_id
+                0x00000000000197ec                button_hal_get_by_index
+                0x0000000000019818                button_hal_get_state
+                0x000000000001986a                button_hal_init
+ .text          0x0000000000019a51      0x1f3 build/cooja/mtype835.a(serial-line.o)
+                0x0000000000019a51                serial_line_input_byte
+                0x0000000000019c0f                serial_line_init
+ .text          0x0000000000019c44      0x168 build/cooja/mtype835.a(gpio-hal.o)
+                0x0000000000019c44                gpio_hal_register_handler
+                0x0000000000019c61                gpio_hal_event_handler
+                0x0000000000019cbd                gpio_hal_init
+                0x0000000000019cdc                gpio_hal_arch_port_toggle_pin
+                0x0000000000019d18                gpio_hal_arch_port_toggle_pins
+                0x0000000000019d46                gpio_hal_arch_no_port_toggle_pin
+                0x0000000000019d84                gpio_hal_arch_no_port_toggle_pins
+ .text          0x0000000000019dac      0x2e7 build/cooja/mtype835.a(queuebuf.o)
+                0x0000000000019db6                queuebuf_init
+                0x0000000000019ddf                queuebuf_numfree
+                0x0000000000019df7                queuebuf_new_from_packetbuf
+                0x0000000000019e96                queuebuf_update_attr_from_packetbuf
+                0x0000000000019ecb                queuebuf_update_from_packetbuf
+                0x0000000000019f1b                queuebuf_free
+                0x0000000000019f64                queuebuf_to_packetbuf
+                0x0000000000019fd0                queuebuf_dataptr
+                0x000000000001a00a                queuebuf_datalen
+                0x000000000001a02d                queuebuf_addr
+                0x000000000001a062                queuebuf_attr
+                0x000000000001a08d                queuebuf_debug_print
+ .text          0x000000000001a093      0x407 build/cooja/mtype835.a(packetbuf.o)
+                0x000000000001a093                packetbuf_clear
+                0x000000000001a0be                packetbuf_copyfrom
+                0x000000000001a10d                packetbuf_copyto
+                0x000000000001a1a0                packetbuf_hdralloc
+                0x000000000001a21c                packetbuf_hdrreduce
+                0x000000000001a262                packetbuf_set_datalen
+                0x000000000001a27c                packetbuf_dataptr
+                0x000000000001a299                packetbuf_hdrptr
+                0x000000000001a2a3                packetbuf_datalen
+                0x000000000001a2af                packetbuf_hdrlen
+                0x000000000001a2c6                packetbuf_totlen
+                0x000000000001a2dc                packetbuf_remaininglen
+                0x000000000001a2ef                packetbuf_attr_clear
+                0x000000000001a33b                packetbuf_attr_copyto
+                0x000000000001a393                packetbuf_attr_copyfrom
+                0x000000000001a3eb                packetbuf_set_attr
+                0x000000000001a415                packetbuf_attr
+                0x000000000001a42f                packetbuf_set_addr
+                0x000000000001a460                packetbuf_addr
+                0x000000000001a47d                packetbuf_holds_broadcast
+ .text          0x000000000001a49a       0xef build/cooja/mtype835.a(netstack.o)
+                0x000000000001a49a                netstack_process_ip_callback
+                0x000000000001a52b                netstack_ip_packet_processor_add
+                0x000000000001a54e                uip_ds6_ip_packet_processor_rm
+                0x000000000001a56b                netstack_init
+ .text          0x000000000001a589       0x4f build/cooja/mtype835.a(linkaddr.o)
+                0x000000000001a589                linkaddr_copy
+                0x000000000001a59f                linkaddr_cmp
+                0x000000000001a5c2                linkaddr_set_node_addr
+ .text          0x000000000001a5d8      0x1f6 build/cooja/mtype835.a(csma.o)
+ .text          0x000000000001a7ce      0x95d build/cooja/mtype835.a(csma-output.o)
+                0x000000000001ae65                csma_output_packet
+                0x000000000001b0f2                csma_output_init
+ .text          0x000000000001b12b      0xc11 build/cooja/mtype835.a(uip-ds6.o)
+                0x000000000001b12b                uip_ds6_default_prefix
+                0x000000000001b135                uip_ds6_set_default_prefix
+                0x000000000001b160                uip_ds6_init
+                0x000000000001b3c2                uip_ds6_periodic
+                0x000000000001b449                uip_ds6_list_loop
+                0x000000000001b509                uip_ds6_prefix_add
+                0x000000000001b5b5                uip_ds6_prefix_rm
+                0x000000000001b5c8                uip_ds6_prefix_lookup
+                0x000000000001b607                uip_ds6_is_addr_onlink
+                0x000000000001b67a                uip_ds6_addr_add
+                0x000000000001b79a                uip_ds6_addr_rm
+                0x000000000001b843                uip_ds6_addr_lookup
+                0x000000000001b87c                uip_ds6_get_link_local
+                0x000000000001b8fd                uip_ds6_get_global
+                0x000000000001b97e                uip_ds6_maddr_add
+                0x000000000001b9de                uip_ds6_maddr_rm
+                0x000000000001b9f1                uip_ds6_maddr_lookup
+                0x000000000001ba2a                uip_ds6_aaddr_add
+                0x000000000001ba8a                uip_ds6_aaddr_rm
+                0x000000000001ba9d                uip_ds6_aaddr_lookup
+                0x000000000001bad6                uip_ds6_select_src
+                0x000000000001bc1f                uip_ds6_set_addr_iid
+                0x000000000001bc4a                uip_ds6_set_lladdr_from_iid
+                0x000000000001bc73                get_match_length
+                0x000000000001bd04                uip_ds6_compute_reachable_time
+ .text          0x000000000001bd3c      0x128 build/cooja/mtype835.a(uip-udp-packet.)
+                0x000000000001bd3c                uip_udp_packet_send
+                0x000000000001bd97                uip_udp_packet_sendto
+ .text          0x000000000001be64      0x35b build/cooja/mtype835.a(uip-ds6-route.o)
+                0x000000000001beb5                uip_ds6_route_init
+                0x000000000001bedf                uip_ds6_route_nexthop
+                0x000000000001bee9                uip_ds6_route_head
+                0x000000000001bef3                uip_ds6_route_next
+                0x000000000001befd                uip_ds6_route_is_nexthop
+                0x000000000001bf07                uip_ds6_route_num_routes
+                0x000000000001bf11                uip_ds6_route_lookup
+                0x000000000001bf1b                uip_ds6_route_add
+                0x000000000001bf2e                uip_ds6_route_rm
+                0x000000000001bf34                uip_ds6_route_rm_by_nexthop
+                0x000000000001bf3a                uip_ds6_defrt_head
+                0x000000000001bf53                uip_ds6_defrt_add
+                0x000000000001c001                uip_ds6_defrt_rm
+                0x000000000001c067                uip_ds6_defrt_lookup
+                0x000000000001c0ce                uip_ds6_defrt_choose
+                0x000000000001c144                uip_ds6_defrt_periodic
+ .text          0x000000000001c1bf      0x6f7 build/cooja/mtype835.a(tcpip.o)
+                0x000000000001c1d9                tcpip_output
+                0x000000000001c258                udp_attach
+                0x000000000001c270                udp_new
+                0x000000000001c2ba                udp_broadcast_new
+                0x000000000001c42c                tcpip_input
+                0x000000000001c5bc                tcpip_ipv6_output
+                0x000000000001c7b0                tcpip_poll_udp
+                0x000000000001c7ce                tcpip_uipcall
+ .text          0x000000000001c8b6     0x1205 build/cooja/mtype835.a(uip6.o)
+                0x000000000001c965                uip_chksum
+                0x000000000001ca3c                uip_icmp6chksum
+                0x000000000001ca51                uip_udpchksum
+                0x000000000001ca66                uip_init
+                0x000000000001caaf                uip_remove_ext_hdr
+                0x000000000001cb89                uip_udp_new
+                0x000000000001ce9d                uip_process
+                0x000000000001d995                uip_htons
+                0x000000000001d9b7                uip_htonl
+                0x000000000001d9f5                uip_send
+ .text          0x000000000001dabb      0x369 build/cooja/mtype835.a(uip-ds6-nbr.o)
+                0x000000000001dabb                uip_ds6_neighbors_init
+                0x000000000001dadf                uip_ds6_nbr_add
+                0x000000000001db65                uip_ds6_nbr_rm
+                0x000000000001dbb0                uip_ds6_nbr_update_ll
+                0x000000000001dc9e                uip_ds6_nbr_get_ipaddr
+                0x000000000001dcb3                uip_ds6_nbr_get_ll
+                0x000000000001dccf                uip_ds6_nbr_num
+                0x000000000001dd18                uip_ds6_nbr_head
+                0x000000000001dd31                uip_ds6_nbr_next
+                0x000000000001dd4d                uip_ds6_nbr_lookup
+                0x000000000001dda5                uip_ds6_nbr_ll_lookup
+                0x000000000001ddc1                uip_ds6_nbr_ipaddr_from_lladdr
+                0x000000000001ddea                uip_ds6_nbr_lladdr_from_ipaddr
+                0x000000000001de1e                uip_ds6_link_callback
+ .text          0x000000000001de24      0x6a7 build/cooja/mtype835.a(uip-nd6.o)
+                0x000000000001e4b2                uip_nd6_init
+ .text          0x000000000001e4cb     0x2c17 build/cooja/mtype835.a(sicslowpan.o)
+                0x000000000001ead2                netstack_sniffer_add
+                0x000000000001eae0                netstack_sniffer_remove
+                0x00000000000210b6                sicslowpan_init
+                0x00000000000210d8                sicslowpan_get_last_rssi
+ .text          0x00000000000210e2      0x4d1 build/cooja/mtype835.a(uiplib.o)
+                0x00000000000210e2                uiplib_ip6addrconv
+                0x000000000002129a                uiplib_ip4addrconv
+                0x000000000002135d                uiplib_ipaddr_print
+                0x00000000000213b0                uiplib_ipaddr_snprint
+ .text          0x00000000000215b3      0x4c9 build/cooja/mtype835.a(rpl.o)
+                0x00000000000215b3                rpl_lollipop_greater_than
+                0x000000000002160d                rpl_get_global_address
+                0x0000000000021705                rpl_link_callback
+                0x0000000000021749                rpl_has_joined
+                0x000000000002176e                rpl_is_reachable
+                0x00000000000217ef                rpl_reset_prefix
+                0x0000000000021859                rpl_set_prefix_from_addr
+                0x000000000002193e                rpl_set_prefix
+                0x0000000000021a58                rpl_set_leaf_only
+                0x0000000000021a70                rpl_get_leaf_only
+ .text          0x0000000000021a7c     0x138c build/cooja/mtype835.a(rpl-icmp6.o)
+                0x0000000000021ba1                rpl_icmp6_update_nbr_table
+                0x0000000000021c2a                rpl_icmp6_dis_output
+                0x0000000000022270                rpl_icmp6_dio_output
+                0x0000000000022a6e                rpl_icmp6_dao_output
+                0x0000000000022d4f                rpl_icmp6_dao_ack_output
+                0x0000000000022dbf                rpl_icmp6_init
+ .text          0x0000000000022e08      0x264 build/cooja/mtype835.a(rpl-dag-root.o)
+                0x0000000000022e08                rpl_dag_root_print_links
+                0x0000000000022f34                rpl_dag_root_set_prefix
+                0x0000000000022f60                rpl_dag_root_start
+                0x000000000002303d                rpl_dag_root_is_root
+ .text          0x000000000002306c       0x30 build/cooja/mtype835.a(watchdog.o)
+                0x000000000002306c                watchdog_init
+                0x0000000000023072                watchdog_start
+                0x0000000000023078                watchdog_periodic
+                0x0000000000023090                watchdog_stop
+                0x0000000000023096                watchdog_reboot
+ .text          0x000000000002309c       0x4a build/cooja/mtype835.a(int-master.o)
+                0x000000000002309c                int_master_enable
+                0x00000000000230ac                int_master_read_and_disable
+                0x00000000000230c9                int_master_status_set
+                0x00000000000230d7                int_master_is_enabled
+ .text          0x00000000000230e6      0x226 build/cooja/mtype835.a(coap-timer-defa)
+ .text          0x000000000002330c       0xc7 build/cooja/mtype835.a(stimer.o)
+                0x000000000002330c                stimer_set
+                0x000000000002332a                stimer_reset
+                0x0000000000023357                stimer_restart
+                0x000000000002336c                stimer_expired
+                0x0000000000023397                stimer_remaining
+                0x00000000000233bb                stimer_elapsed
+ .text          0x00000000000233d3      0x156 build/cooja/mtype835.a(ringbuf.o)
+                0x00000000000233d3                ringbuf_init
+                0x0000000000023405                ringbuf_put
+                0x0000000000023483                ringbuf_get
+                0x00000000000234f0                ringbuf_size
+                0x0000000000023502                ringbuf_elements
+ .text          0x0000000000023529       0x1f build/cooja/mtype835.a(assert.o)
+                0x0000000000023529                _xassert
+ .text          0x0000000000023548      0x79b build/cooja/mtype835.a(nbr-table.o)
+                0x00000000000239c1                nbr_table_register
+                0x0000000000023a2e                nbr_table_is_registered
+                0x0000000000023a69                nbr_table_head
+                0x0000000000023ac4                nbr_table_next
+                0x0000000000023b25                nbr_table_add_lladdr
+                0x0000000000023bff                nbr_table_get_from_lladdr
+                0x0000000000023c4b                nbr_table_remove
+                0x0000000000023c83                nbr_table_lock
+                0x0000000000023c9d                nbr_table_unlock
+                0x0000000000023cb7                nbr_table_get_lladdr
+ .text          0x0000000000023ce3      0x3a5 build/cooja/mtype835.a(link-stats.o)
+                0x0000000000023ce3                link_stats_from_lladdr
+                0x0000000000023cff                link_stats_get_lladdr
+                0x0000000000023d1b                link_stats_is_fresh
+                0x0000000000023d57                guess_etx_from_rssi
+                0x0000000000023dd3                link_stats_packet_sent
+                0x0000000000023ef3                link_stats_input_callback
+                0x0000000000024003                link_stats_reset
+                0x0000000000024053                link_stats_init
+ .text          0x0000000000024088      0x187 build/cooja/mtype835.a(mac-sequence.o)
+                0x0000000000024088                mac_sequence_is_duplicate
+                0x0000000000024128                mac_sequence_register_seqno
+ .text          0x000000000002420f       0x23 build/cooja/mtype835.a(mac.o)
+                0x000000000002420f                mac_call_sent_callback
+ .text          0x0000000000024232      0x432 build/cooja/mtype835.a(framer-802154.o)
+                0x00000000000243c1                framer_802154_setup_params
+ .text          0x0000000000024664      0xb6f build/cooja/mtype835.a(frame802154.o)
+                0x0000000000024695                frame802154_get_pan_id
+                0x00000000000246a1                frame802154_set_pan_id
+                0x00000000000246bb                frame802154_has_panid
+                0x000000000002486a                frame802154_check_dest_panid
+                0x00000000000248f2                frame802154_is_broadcast_addr
+                0x000000000002493f                frame802154_extract_linkaddr
+                0x0000000000024ba4                frame802154_hdrlen
+                0x0000000000024c17                frame802154_create_fcf
+                0x0000000000024ccf                frame802154_create
+                0x0000000000024e44                frame802154_parse_fcf
+                0x0000000000024f26                frame802154_parse
+ .text          0x00000000000251d3       0x2d build/cooja/mtype835.a(csma-security.o)
+                0x00000000000251d3                csma_security_create_frame
+                0x00000000000251f1                csma_security_parse_frame
+ .text          0x0000000000025200      0x4e4 build/cooja/mtype835.a(uipbuf.o)
+                0x0000000000025200                uipbuf_clear
+                0x0000000000025227                uipbuf_add_ext_hdr
+                0x00000000000252a7                uipbuf_set_len
+                0x00000000000252d4                uipbuf_set_len_field
+                0x0000000000025300                uipbuf_get_len_field
+                0x0000000000025320                uipbuf_get_next_header
+                0x0000000000025452                uipbuf_get_last_header
+                0x00000000000254cb                uipbuf_search_header
+                0x0000000000025581                uipbuf_get_attr
+                0x00000000000255a8                uipbuf_set_attr
+                0x00000000000255df                uipbuf_set_default_attr
+                0x0000000000025616                uipbuf_clear_attr
+                0x000000000002563a                uipbuf_set_attr_flag
+                0x000000000002565b                uipbuf_clr_attr_flag
+                0x0000000000025682                uipbuf_is_attr_flag
+                0x00000000000256a6                uipbuf_init
+ .text          0x00000000000256e4      0x73f build/cooja/mtype835.a(uip-icmp6.o)
+                0x0000000000025759                uip_icmp6_input
+                0x00000000000257b0                uip_icmp6_register_input_handler
+                0x0000000000025903                uip_icmp6_error_output
+                0x0000000000025bb4                uip_icmp6_send
+                0x0000000000025dab                uip_icmp6_echo_reply_callback_add
+                0x0000000000025ddd                uip_icmp6_echo_reply_callback_rm
+                0x0000000000025dfa                uip_icmp6_init
+ .text          0x0000000000025e23      0x69b build/cooja/mtype835.a(uip-sr.o)
+                0x0000000000025e23                uip_sr_num_nodes
+                0x0000000000025eb1                uip_sr_get_node
+                0x0000000000025f08                uip_sr_is_addr_reachable
+                0x0000000000025fb6                uip_sr_expire_parent
+                0x0000000000025fff                uip_sr_update_node
+                0x000000000002612f                uip_sr_init
+                0x0000000000026163                uip_sr_node_head
+                0x000000000002617c                uip_sr_node_next
+                0x0000000000026192                uip_sr_periodic
+                0x0000000000026298                uip_sr_free_all
+                0x0000000000026308                uip_sr_link_snprint
+ .text          0x00000000000264be      0x146 build/cooja/mtype835.a(uip-packetqueue)
+                0x00000000000264ec                uip_packetqueue_new
+                0x00000000000264fb                uip_packetqueue_alloc
+                0x0000000000026556                uip_packetqueue_free
+                0x000000000002659d                uip_packetqueue_buf
+                0x00000000000265ba                uip_packetqueue_buflen
+                0x00000000000265db                uip_packetqueue_set_buflen
+ .text          0x0000000000026604      0x1b0 build/cooja/mtype835.a(rpl-nbr-policy.)
+                0x0000000000026771                rpl_nbr_policy_find_removable
+ .text          0x00000000000267b4      0x915 build/cooja/mtype835.a(rpl-neighbor.o)
+                0x0000000000026830                rpl_neighbor_snprint
+                0x0000000000026ae3                rpl_neighbor_print_list
+                0x0000000000026b98                rpl_neighbor_count
+                0x0000000000026c3f                rpl_neighbor_get_from_lladdr
+                0x0000000000026c5b                rpl_neighbor_is_acceptable_parent
+                0x0000000000026c8f                rpl_neighbor_get_link_metric
+                0x0000000000026cc3                rpl_neighbor_rank_via_nbr
+                0x0000000000026cf7                rpl_neighbor_get_lladdr
+                0x0000000000026d13                rpl_neighbor_get_ipaddr
+                0x0000000000026d3a                rpl_neighbor_get_link_stats
+                0x0000000000026d61                rpl_neighbor_is_fresh
+                0x0000000000026d88                rpl_neighbor_is_reachable
+                0x0000000000026dd3                rpl_neighbor_is_parent
+                0x0000000000026dfd                rpl_neighbor_set_preferred_parent
+                0x0000000000026e94                rpl_neighbor_remove_all
+                0x0000000000026ef0                rpl_neighbor_get_from_ipaddr
+                0x0000000000026ffe                rpl_neighbor_select_best
+                0x00000000000270aa                rpl_neighbor_init
+ .text          0x00000000000270c9      0xe69 build/cooja/mtype835.a(rpl-dag.o)
+                0x00000000000270c9                rpl_dag_state_to_str
+                0x0000000000027108                rpl_dag_get_root_ipaddr
+                0x0000000000027150                rpl_dag_leave
+                0x00000000000271d9                rpl_dag_poison_and_leave
+                0x00000000000271f1                rpl_dag_periodic
+                0x0000000000027279                rpl_is_addr_in_our_dag
+                0x00000000000272bd                rpl_get_default_instance
+                0x00000000000272d9                rpl_get_any_dag
+                0x0000000000027332                rpl_refresh_routes
+                0x0000000000027372                rpl_global_repair
+                0x000000000002740b                rpl_local_repair
+                0x0000000000027455                rpl_dag_ready_to_advertise
+                0x0000000000027498                rpl_dag_update_state
+                0x0000000000027bc5                rpl_process_dio
+                0x0000000000027c43                rpl_process_dis
+                0x0000000000027c88                rpl_process_dao
+                0x0000000000027d17                rpl_process_dao_ack
+                0x0000000000027dae                rpl_process_hbh
+                0x0000000000027dfe                rpl_dag_init_root
+                0x0000000000027f12                rpl_dag_init
+ .text          0x0000000000027f32      0x9e7 build/cooja/mtype835.a(rpl-timers.o)
+                0x0000000000027f32                rpl_timers_schedule_periodic_dis
+                0x0000000000028080                rpl_timers_dio_reset
+                0x000000000002818e                rpl_timers_schedule_unicast_dio
+                0x00000000000282e2                rpl_timers_schedule_dao
+                0x00000000000283a1                rpl_timers_schedule_dao_ack
+                0x0000000000028427                rpl_timers_notify_dao_ack
+                0x0000000000028485                get_probing_delay
+                0x00000000000284b9                get_probing_target
+                0x00000000000286a3                rpl_schedule_probing
+                0x00000000000286d1                rpl_schedule_probing_now
+                0x000000000002873b                rpl_timers_unschedule_leaving
+                0x0000000000028773                rpl_timers_schedule_leaving
+                0x00000000000287b4                rpl_timers_init
+                0x0000000000028844                rpl_timers_stop_dag_timers
+                0x00000000000288bd                rpl_timers_unschedule_state_update
+                0x00000000000288e1                rpl_timers_schedule_state_update
+ .text          0x0000000000028919      0xb8e build/cooja/mtype835.a(rpl-ext-header.)
+                0x0000000000028919                rpl_ext_header_srh_get_next_hop
+                0x0000000000028a00                rpl_ext_header_srh_update
+                0x0000000000028f6c                rpl_ext_header_hbh_update
+                0x000000000002926c                rpl_ext_header_update
+                0x00000000000292f5                rpl_ext_header_remove
+ .text          0x00000000000294a7      0x31b build/cooja/mtype835.a(rpl-mrhof.o)
+ *fill*         0x00000000000297c2        0xe 
+ .text          0x00000000000297d0      0x122 /usr/lib/gcc/i686-linux-gnu/5/libgcc.a(_udivdi3.o)
+                0x00000000000297d0                __udivdi3
+ .text          0x00000000000298f2        0x0 /usr/lib/gcc/i686-linux-gnu/5/crtendS.o
+ .text          0x00000000000298f2        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crtn.o
+ *(.gnu.warning)
+
+.fini           0x00000000000298f4       0x14
+ *(SORT(.fini))
+ .fini          0x00000000000298f4        0xf /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+                0x00000000000298f4                _fini
+ .fini          0x0000000000029903        0x5 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.rodata         0x0000000000029920      0xb4b
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000000029920       0x9a light_node.o
+                0x000000000002992c                autostart_processes
+ *fill*         0x00000000000299ba        0x2 
+ .rodata        0x00000000000299bc        0x8 build/cooja/mtype835.a(beep.o)
+                0x00000000000299bc                beep_interface
+ .rodata        0x00000000000299c4        0xe build/cooja/mtype835.a(leds-arch.o)
+                0x00000000000299c4                leds_interface
+                0x00000000000299cc                leds_arch_leds
+ *fill*         0x00000000000299d2        0x2 
+ .rodata        0x00000000000299d4        0x8 build/cooja/mtype835.a(moteid.o)
+                0x00000000000299d4                moteid_interface
+ .rodata        0x00000000000299dc       0x1c build/cooja/mtype835.a(pir-sensor.o)
+                0x00000000000299dc                pir_interface
+                0x00000000000299e8                pir_sensor
+ .rodata        0x00000000000299f8        0xe build/cooja/mtype835.a(rs232.o)
+                0x00000000000299f8                rs232_interface
+ *fill*         0x0000000000029a06        0x2 
+ .rodata        0x0000000000029a08       0x24 build/cooja/mtype835.a(vib-sensor.o)
+                0x0000000000029a08                vib_interface
+                0x0000000000029a1c                vib_sensor
+ .rodata        0x0000000000029a2c        0x8 build/cooja/mtype835.a(clock.o)
+                0x0000000000029a2c                clock_interface
+ .rodata        0x0000000000029a34        0x8 build/cooja/mtype835.a(cooja-log.o)
+                0x0000000000029a34                simlog_interface
+ .rodata        0x0000000000029a3c       0x2f build/cooja/mtype835.a(cfs-cooja.o)
+                0x0000000000029a3c                cfs_interface
+ *fill*         0x0000000000029a6b       0x15 
+ .rodata        0x0000000000029a80       0xb8 build/cooja/mtype835.a(cooja-radio.o)
+                0x0000000000029a80                radio_interface
+                0x0000000000029b00                cooja_radio_driver
+ .rodata        0x0000000000029b38        0x8 build/cooja/mtype835.a(eeprom.o)
+                0x0000000000029b38                eeprom_interface
+ .rodata        0x0000000000029b40        0x8 build/cooja/mtype835.a(sensors.o)
+ .rodata        0x0000000000029b48       0x2c build/cooja/mtype835.a(buttons.o)
+                0x0000000000029b48                button_interface
+                0x0000000000029b5c                button_hal_button_count
+                0x0000000000029b64                button_sensor
+ .rodata        0x0000000000029b74       0xc8 build/cooja/mtype835.a(res_bulbSwitch.)
+ .rodata        0x0000000000029c3c       0x65 build/cooja/mtype835.a(res_light.o)
+ .rodata        0x0000000000029ca1       0x41 build/cooja/mtype835.a(coap-engine.o)
+ .rodata        0x0000000000029ce2       0x19 build/cooja/mtype835.a(coap-res-well-k)
+ .rodata        0x0000000000029cfb       0x11 build/cooja/mtype835.a(coap-observe.o)
+ .rodata        0x0000000000029d0c       0x35 build/cooja/mtype835.a(coap-uip.o)
+ *fill*         0x0000000000029d41        0x3 
+ .rodata        0x0000000000029d44      0x1ac build/cooja/mtype835.a(coap.o)
+ .rodata        0x0000000000029ef0       0xf8 build/cooja/mtype835.a(contiki-main.o)
+ .rodata        0x0000000000029fe8        0xf build/cooja/mtype835.a(ctimer.o)
+ *fill*         0x0000000000029ff7        0x1 
+ .rodata        0x0000000000029ff8       0xc4 build/cooja/mtype835.a(log.o)
+ .rodata        0x000000000002a0bc        0xc build/cooja/mtype835.a(etimer.o)
+ .rodata        0x000000000002a0c8       0x13 build/cooja/mtype835.a(button-hal.o)
+ .rodata        0x000000000002a0db        0xe build/cooja/mtype835.a(serial-line.o)
+ *fill*         0x000000000002a0e9        0x3 
+ .rodata        0x000000000002a0ec        0x8 build/cooja/mtype835.a(linkaddr.o)
+                0x000000000002a0ec                linkaddr_null
+ .rodata        0x000000000002a0f4       0x24 build/cooja/mtype835.a(csma.o)
+                0x000000000002a0fc                csma_driver
+ .rodata        0x000000000002a118       0x2d build/cooja/mtype835.a(csma-output.o)
+ *fill*         0x000000000002a145        0x3 
+ .rodata        0x000000000002a148       0x4d build/cooja/mtype835.a(uip-ds6-route.o)
+ .rodata        0x000000000002a195        0xd build/cooja/mtype835.a(tcpip.o)
+ *fill*         0x000000000002a1a2        0x2 
+ .rodata        0x000000000002a1a4       0x30 build/cooja/mtype835.a(sicslowpan.o)
+                0x000000000002a1a4                unc_llconf
+                0x000000000002a1a8                unc_ctxconf
+                0x000000000002a1ac                unc_mxconf
+                0x000000000002a1b0                llprefix
+                0x000000000002a1c4                sicslowpan_driver
+ .rodata        0x000000000002a1d4       0x2d build/cooja/mtype835.a(uiplib.o)
+ *fill*         0x000000000002a201       0x1f 
+ .rodata        0x000000000002a220       0x74 build/cooja/mtype835.a(rpl.o)
+                0x000000000002a240                rpl_lite_driver
+ .rodata        0x000000000002a294       0x20 build/cooja/mtype835.a(coap-timer-defa)
+                0x000000000002a2a8                coap_timer_default_driver
+ .rodata        0x000000000002a2b4       0x25 build/cooja/mtype835.a(assert.o)
+ *fill*         0x000000000002a2d9        0x3 
+ .rodata        0x000000000002a2dc        0xc build/cooja/mtype835.a(framer-802154.o)
+                0x000000000002a2dc                framer_802154
+ .rodata        0x000000000002a2e8       0x44 build/cooja/mtype835.a(uip-sr.o)
+ .rodata        0x000000000002a32c       0x58 build/cooja/mtype835.a(rpl-neighbor.o)
+ .rodata        0x000000000002a384       0xdb build/cooja/mtype835.a(rpl-dag.o)
+ .rodata        0x000000000002a45f        0xc build/cooja/mtype835.a(rpl-timers.o)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x000000000002a46c     0x19e4
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000000000002a46c     0x19e4 light_node.o
+                0x000000000002a46c                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x000000000002be50     0x6908
+ *(.eh_frame)
+ .eh_frame      0x000000000002be50       0x3c /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x000000000002be8c       0x40 light_node.o
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000002becc      0x178 build/cooja/mtype835.o
+                                        0x190 (size before relaxing)
+ .eh_frame      0x000000000002c044       0x40 build/cooja/mtype835.a(simEnvChange.o)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000002c084       0x60 build/cooja/mtype835.a(cooja_mt.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000002c0e4       0x80 build/cooja/mtype835.a(cooja_mtarch.o)
+                                         0x98 (size before relaxing)
+ .eh_frame      0x000000000002c164       0xc8 build/cooja/mtype835.a(rtimer-arch.o)
+                                         0xe0 (size before relaxing)
+ .eh_frame      0x000000000002c22c      0x160 build/cooja/mtype835.a(beep.o)
+                                        0x178 (size before relaxing)
+ .eh_frame      0x000000000002c38c       0x80 build/cooja/mtype835.a(leds-arch.o)
+                                         0x98 (size before relaxing)
+ .eh_frame      0x000000000002c40c       0x40 build/cooja/mtype835.a(moteid.o)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000002c44c       0xa0 build/cooja/mtype835.a(pir-sensor.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000002c4ec      0x100 build/cooja/mtype835.a(rs232.o)
+                                        0x118 (size before relaxing)
+ .eh_frame      0x000000000002c5ec       0xa0 build/cooja/mtype835.a(vib-sensor.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000002c68c       0xc0 build/cooja/mtype835.a(clock.o)
+                                         0xd8 (size before relaxing)
+ .eh_frame      0x000000000002c74c      0x120 build/cooja/mtype835.a(cooja-log.o)
+                                        0x138 (size before relaxing)
+ .eh_frame      0x000000000002c86c      0x160 build/cooja/mtype835.a(cfs-cooja.o)
+                                        0x178 (size before relaxing)
+ .eh_frame      0x000000000002c9cc      0x340 build/cooja/mtype835.a(cooja-radio.o)
+                                        0x358 (size before relaxing)
+ .eh_frame      0x000000000002cd0c       0xa0 build/cooja/mtype835.a(eeprom.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000002cdac       0x40 build/cooja/mtype835.a(random.o)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000002cdec       0xc0 build/cooja/mtype835.a(sensors.o)
+                                         0xd8 (size before relaxing)
+ .eh_frame      0x000000000002ceac      0x120 build/cooja/mtype835.a(leds.o)
+                                        0x138 (size before relaxing)
+ .eh_frame      0x000000000002cfcc      0x220 build/cooja/mtype835.a(gpio-hal-arch.o)
+                                        0x238 (size before relaxing)
+ .eh_frame      0x000000000002d1ec       0xa0 build/cooja/mtype835.a(buttons.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000002d28c       0x40 build/cooja/mtype835.a(res_bulbSwitch.)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000002d2cc       0x40 build/cooja/mtype835.a(res_light.o)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000002d30c       0x44 build/cooja/mtype835.a(coap-blocking-a)
+                                         0x5c (size before relaxing)
+ .eh_frame      0x000000000002d350      0x220 build/cooja/mtype835.a(coap-engine.o)
+                                        0x238 (size before relaxing)
+ .eh_frame      0x000000000002d570       0x24 build/cooja/mtype835.a(coap-res-well-k)
+                                         0x3c (size before relaxing)
+ .eh_frame      0x000000000002d594      0x188 build/cooja/mtype835.a(coap-observe.o)
+                                        0x1a0 (size before relaxing)
+ .eh_frame      0x000000000002d71c      0x250 build/cooja/mtype835.a(coap-uip.o)
+                                        0x268 (size before relaxing)
+ .eh_frame      0x000000000002d96c      0x114 build/cooja/mtype835.a(coap-timer.o)
+                                        0x12c (size before relaxing)
+ .eh_frame      0x000000000002da80      0x100 build/cooja/mtype835.a(coap-transactio)
+                                        0x118 (size before relaxing)
+ .eh_frame      0x000000000002db80      0x6ec build/cooja/mtype835.a(coap.o)
+                                        0x704 (size before relaxing)
+ .eh_frame      0x000000000002e26c       0x30 build/cooja/mtype835.a(contiki-main.o)
+                                         0x48 (size before relaxing)
+ .eh_frame      0x000000000002e29c       0x40 build/cooja/mtype835.a(autostart.o)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000002e2dc      0x100 build/cooja/mtype835.a(ctimer.o)
+                                        0x118 (size before relaxing)
+ .eh_frame      0x000000000002e3dc      0x100 build/cooja/mtype835.a(log.o)
+                                        0x118 (size before relaxing)
+ .eh_frame      0x000000000002e4dc       0x60 build/cooja/mtype835.a(energest.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000002e53c      0x1e0 build/cooja/mtype835.a(etimer.o)
+                                        0x1f8 (size before relaxing)
+ .eh_frame      0x000000000002e71c       0x20 build/cooja/mtype835.a(node-id.o)
+                                         0x38 (size before relaxing)
+ .eh_frame      0x000000000002e73c       0x60 build/cooja/mtype835.a(rtimer.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000002e79c      0x1c4 build/cooja/mtype835.a(process.o)
+                                        0x1dc (size before relaxing)
+ .eh_frame      0x000000000002e960       0xa4 build/cooja/mtype835.a(timer.o)
+                                         0xbc (size before relaxing)
+ .eh_frame      0x000000000002ea04      0x1a0 build/cooja/mtype835.a(list.o)
+                                        0x1b8 (size before relaxing)
+ .eh_frame      0x000000000002eba4       0xa0 build/cooja/mtype835.a(memb.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000002ec44      0x144 build/cooja/mtype835.a(button-hal.o)
+                                        0x15c (size before relaxing)
+ .eh_frame      0x000000000002ed88       0x60 build/cooja/mtype835.a(serial-line.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000002ede8       0xe0 build/cooja/mtype835.a(gpio-hal.o)
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x000000000002eec8      0x1a0 build/cooja/mtype835.a(queuebuf.o)
+                                        0x1b8 (size before relaxing)
+ .eh_frame      0x000000000002f068      0x28c build/cooja/mtype835.a(packetbuf.o)
+                                        0x2a4 (size before relaxing)
+ .eh_frame      0x000000000002f2f4       0x80 build/cooja/mtype835.a(netstack.o)
+                                         0x98 (size before relaxing)
+ .eh_frame      0x000000000002f374       0x60 build/cooja/mtype835.a(linkaddr.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000002f3d4       0xe0 build/cooja/mtype835.a(csma.o)
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x000000000002f4b4      0x1d0 build/cooja/mtype835.a(csma-output.o)
+                                        0x1e8 (size before relaxing)
+ .eh_frame      0x000000000002f684      0x328 build/cooja/mtype835.a(uip-ds6.o)
+                                        0x340 (size before relaxing)
+ .eh_frame      0x000000000002f9ac       0x40 build/cooja/mtype835.a(uip-udp-packet.)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000002f9ec      0x220 build/cooja/mtype835.a(uip-ds6-route.o)
+                                        0x238 (size before relaxing)
+ .eh_frame      0x000000000002fc0c      0x244 build/cooja/mtype835.a(tcpip.o)
+                                        0x25c (size before relaxing)
+ .eh_frame      0x000000000002fe50      0x1e8 build/cooja/mtype835.a(uip6.o)
+                                        0x200 (size before relaxing)
+ .eh_frame      0x0000000000030038      0x1c0 build/cooja/mtype835.a(uip-ds6-nbr.o)
+                                        0x1d8 (size before relaxing)
+ .eh_frame      0x00000000000301f8       0x84 build/cooja/mtype835.a(uip-nd6.o)
+                                         0x9c (size before relaxing)
+ .eh_frame      0x000000000003027c      0x2f8 build/cooja/mtype835.a(sicslowpan.o)
+                                        0x310 (size before relaxing)
+ .eh_frame      0x0000000000030574       0x88 build/cooja/mtype835.a(uiplib.o)
+                                         0xa0 (size before relaxing)
+ .eh_frame      0x00000000000305fc      0x1e0 build/cooja/mtype835.a(rpl.o)
+                                        0x1f8 (size before relaxing)
+ .eh_frame      0x00000000000307dc      0x1c4 build/cooja/mtype835.a(rpl-icmp6.o)
+                                        0x1dc (size before relaxing)
+ .eh_frame      0x00000000000309a0       0xa0 build/cooja/mtype835.a(rpl-dag-root.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x0000000000030a40       0xa0 build/cooja/mtype835.a(watchdog.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x0000000000030ae0       0x80 build/cooja/mtype835.a(int-master.o)
+                                         0x98 (size before relaxing)
+ .eh_frame      0x0000000000030b60       0xa4 build/cooja/mtype835.a(coap-timer-defa)
+                                         0xbc (size before relaxing)
+ .eh_frame      0x0000000000030c04       0xc4 build/cooja/mtype835.a(stimer.o)
+                                         0xdc (size before relaxing)
+ .eh_frame      0x0000000000030cc8       0xa0 build/cooja/mtype835.a(ringbuf.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x0000000000030d68       0x20 build/cooja/mtype835.a(assert.o)
+                                         0x38 (size before relaxing)
+ .eh_frame      0x0000000000030d88      0x2ac build/cooja/mtype835.a(nbr-table.o)
+                                        0x2c4 (size before relaxing)
+ .eh_frame      0x0000000000031034      0x120 build/cooja/mtype835.a(link-stats.o)
+                                        0x138 (size before relaxing)
+ .eh_frame      0x0000000000031154       0x48 build/cooja/mtype835.a(mac-sequence.o)
+                                         0x60 (size before relaxing)
+ .eh_frame      0x000000000003119c       0x20 build/cooja/mtype835.a(mac.o)
+                                         0x38 (size before relaxing)
+ .eh_frame      0x00000000000311bc       0xa4 build/cooja/mtype835.a(framer-802154.o)
+                                         0xbc (size before relaxing)
+ .eh_frame      0x0000000000031260      0x1a4 build/cooja/mtype835.a(frame802154.o)
+                                        0x1bc (size before relaxing)
+ .eh_frame      0x0000000000031404       0x40 build/cooja/mtype835.a(csma-security.o)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x0000000000031444      0x200 build/cooja/mtype835.a(uipbuf.o)
+                                        0x218 (size before relaxing)
+ .eh_frame      0x0000000000031644      0x150 build/cooja/mtype835.a(uip-icmp6.o)
+                                        0x168 (size before relaxing)
+ .eh_frame      0x0000000000031794      0x184 build/cooja/mtype835.a(uip-sr.o)
+                                        0x19c (size before relaxing)
+ .eh_frame      0x0000000000031918       0xe0 build/cooja/mtype835.a(uip-packetqueue)
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x00000000000319f8       0x80 build/cooja/mtype835.a(rpl-nbr-policy.)
+                                         0x98 (size before relaxing)
+ .eh_frame      0x0000000000031a78      0x2d4 build/cooja/mtype835.a(rpl-neighbor.o)
+                                        0x2ec (size before relaxing)
+ .eh_frame      0x0000000000031d4c      0x370 build/cooja/mtype835.a(rpl-dag.o)
+                                        0x388 (size before relaxing)
+ .eh_frame      0x00000000000320bc      0x3a8 build/cooja/mtype835.a(rpl-timers.o)
+                                        0x3c0 (size before relaxing)
+ .eh_frame      0x0000000000032464      0x124 build/cooja/mtype835.a(rpl-ext-header.)
+                                        0x13c (size before relaxing)
+ .eh_frame      0x0000000000032588      0x148 build/cooja/mtype835.a(rpl-mrhof.o)
+                                        0x160 (size before relaxing)
+ .eh_frame      0x00000000000326d0       0x84 /usr/lib/gcc/i686-linux-gnu/5/libgcc.a(_udivdi3.o)
+                                         0x9c (size before relaxing)
+ .eh_frame      0x0000000000032754        0x4 /usr/lib/gcc/i686-linux-gnu/5/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000033f10                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000033f10        0x4
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000033f10        0x4 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+
+.fini_array     0x0000000000033f14        0x4
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000033f14        0x4 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000033f18        0x4
+ *(.jcr)
+ .jcr           0x0000000000033f18        0x0 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+ .jcr           0x0000000000033f18        0x4 /usr/lib/gcc/i686-linux-gnu/5/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000033f1c       0xd0
+ *(.dynamic)
+ .dynamic       0x0000000000033f1c       0xd0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+                0x0000000000033f1c                _DYNAMIC
+
+.got            0x0000000000033fec       0x14
+ *(.got)
+ .got           0x0000000000033fec       0x14 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000034ff4                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x0000000000034000        0xc
+ *(.got.plt)
+ .got.plt       0x0000000000034000        0xc /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+                0x0000000000034000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000034020      0x4a4
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000034020        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ .data          0x0000000000034020        0x0 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+ .data.rel.local
+                0x0000000000034020        0x4 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+                0x0000000000034020                __dso_handle
+ .data          0x0000000000034024       0x14 light_node.o
+                0x0000000000034028                light_node
+ *fill*         0x0000000000034038        0x8 
+ .data          0x0000000000034040       0x44 build/cooja/mtype835.o
+                0x0000000000034040                simInterfaces
+                0x0000000000034074                sensors
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(simEnvChange.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(cooja_mt.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(cooja_mtarch.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(rtimer-arch.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(beep.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(leds-arch.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(moteid.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(pir-sensor.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(rs232.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(vib-sensor.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(clock.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(cooja-log.o)
+ .data          0x0000000000034084        0x0 build/cooja/mtype835.a(cfs-cooja.o)
+ .data          0x0000000000034084       0x2c build/cooja/mtype835.a(cooja-radio.o)
+                0x0000000000034084                simRadioHWOn
+                0x0000000000034088                simSignalStrength
+                0x000000000003408c                simLastSignalStrength
+                0x0000000000034090                simPower
+                0x0000000000034094                simRadioChannel
+                0x0000000000034098                simLQI
+                0x00000000000340a0                cooja_radio_process
+ .data          0x00000000000340b0        0x0 build/cooja/mtype835.a(eeprom.o)
+ .data          0x00000000000340b0        0x0 build/cooja/mtype835.a(random.o)
+ .data          0x00000000000340b0       0x10 build/cooja/mtype835.a(sensors.o)
+                0x00000000000340b0                sensors_process
+ .data          0x00000000000340c0        0x0 build/cooja/mtype835.a(leds.o)
+ .data          0x00000000000340c0        0x0 build/cooja/mtype835.a(gpio-hal-arch.o)
+ .data          0x00000000000340c0       0x78 build/cooja/mtype835.a(buttons.o)
+                0x00000000000340c0                simButtonIsActive
+                0x0000000000034130                button_hal_buttons
+ *fill*         0x0000000000034138        0x8 
+ .data          0x0000000000034140       0x24 build/cooja/mtype835.a(res_bulbSwitch.)
+                0x0000000000034140                res_bulbSwitch
+ *fill*         0x0000000000034164       0x1c 
+ .data          0x0000000000034180       0x44 build/cooja/mtype835.a(res_light.o)
+                0x00000000000341a0                res_light
+ .data          0x00000000000341c4        0x0 build/cooja/mtype835.a(coap-blocking-a)
+ .data          0x00000000000341c4        0x8 build/cooja/mtype835.a(coap-engine.o)
+ *fill*         0x00000000000341cc       0x14 
+ .data          0x00000000000341e0       0x24 build/cooja/mtype835.a(coap-res-well-k)
+                0x00000000000341e0                res_well_known_core
+ .data          0x0000000000034204       0x10 build/cooja/mtype835.a(coap-observe.o)
+ .data          0x0000000000034214       0x10 build/cooja/mtype835.a(coap-uip.o)
+                0x0000000000034214                coap_engine
+ .data          0x0000000000034224        0x4 build/cooja/mtype835.a(coap-timer.o)
+ .data          0x0000000000034228       0x10 build/cooja/mtype835.a(coap-transactio)
+ .data          0x0000000000034238        0x4 build/cooja/mtype835.a(coap.o)
+                0x0000000000034238                coap_error_message
+ .data          0x000000000003423c        0x0 build/cooja/mtype835.a(contiki-main.o)
+ .data          0x000000000003423c        0x0 build/cooja/mtype835.a(autostart.o)
+ .data          0x000000000003423c       0x14 build/cooja/mtype835.a(ctimer.o)
+                0x0000000000034240                ctimer_process
+ *fill*         0x0000000000034250       0x10 
+ .data          0x0000000000034260       0xbc build/cooja/mtype835.a(log.o)
+                0x0000000000034260                curr_log_level_main
+                0x0000000000034280                all_modules
+ .data          0x000000000003431c        0x0 build/cooja/mtype835.a(energest.o)
+ .data          0x000000000003431c       0x10 build/cooja/mtype835.a(etimer.o)
+                0x000000000003431c                etimer_process
+ .data          0x000000000003432c        0x0 build/cooja/mtype835.a(node-id.o)
+ .data          0x000000000003432c        0x0 build/cooja/mtype835.a(rtimer.o)
+ .data          0x000000000003432c        0x0 build/cooja/mtype835.a(process.o)
+ .data          0x000000000003432c        0x0 build/cooja/mtype835.a(timer.o)
+ .data          0x000000000003432c        0x0 build/cooja/mtype835.a(list.o)
+ .data          0x000000000003432c        0x0 build/cooja/mtype835.a(memb.o)
+ .data          0x000000000003432c       0x10 build/cooja/mtype835.a(button-hal.o)
+                0x000000000003432c                button_hal_process
+ .data          0x000000000003433c       0x10 build/cooja/mtype835.a(serial-line.o)
+                0x000000000003433c                serial_line_process
+ .data          0x000000000003434c        0x4 build/cooja/mtype835.a(gpio-hal.o)
+ .data          0x0000000000034350       0x18 build/cooja/mtype835.a(queuebuf.o)
+ .data          0x0000000000034368        0x4 build/cooja/mtype835.a(packetbuf.o)
+ .data          0x000000000003436c        0x4 build/cooja/mtype835.a(netstack.o)
+ .data          0x0000000000034370        0x0 build/cooja/mtype835.a(linkaddr.o)
+ .data          0x0000000000034370        0x0 build/cooja/mtype835.a(csma.o)
+ .data          0x0000000000034370       0x28 build/cooja/mtype835.a(csma-output.o)
+ .data          0x0000000000034398        0x0 build/cooja/mtype835.a(uip-ds6.o)
+ .data          0x0000000000034398        0x0 build/cooja/mtype835.a(uip-udp-packet.)
+ .data          0x0000000000034398       0x10 build/cooja/mtype835.a(uip-ds6-route.o)
+ .data          0x00000000000343a8       0x10 build/cooja/mtype835.a(tcpip.o)
+                0x00000000000343a8                tcpip_process
+ .data          0x00000000000343b8        0x0 build/cooja/mtype835.a(uip6.o)
+ .data          0x00000000000343b8       0x14 build/cooja/mtype835.a(uip-ds6-nbr.o)
+ .data          0x00000000000343cc        0xc build/cooja/mtype835.a(uip-nd6.o)
+ .data          0x00000000000343d8        0x0 build/cooja/mtype835.a(sicslowpan.o)
+ .data          0x00000000000343d8        0x0 build/cooja/mtype835.a(uiplib.o)
+ .data          0x00000000000343d8        0x0 build/cooja/mtype835.a(rpl.o)
+ .data          0x00000000000343d8       0x30 build/cooja/mtype835.a(rpl-icmp6.o)
+ .data          0x0000000000034408        0x0 build/cooja/mtype835.a(rpl-dag-root.o)
+ .data          0x0000000000034408        0x0 build/cooja/mtype835.a(watchdog.o)
+ .data          0x0000000000034408        0x0 build/cooja/mtype835.a(int-master.o)
+ .data          0x0000000000034408       0x10 build/cooja/mtype835.a(coap-timer-defa)
+                0x0000000000034408                coap_timer_process
+ .data          0x0000000000034418        0x0 build/cooja/mtype835.a(stimer.o)
+ .data          0x0000000000034418        0x0 build/cooja/mtype835.a(ringbuf.o)
+ .data          0x0000000000034418        0x0 build/cooja/mtype835.a(assert.o)
+ .data          0x0000000000034418       0x10 build/cooja/mtype835.a(nbr-table.o)
+ .data          0x0000000000034428       0x14 build/cooja/mtype835.a(link-stats.o)
+ .data          0x000000000003443c        0x0 build/cooja/mtype835.a(mac-sequence.o)
+ .data          0x000000000003443c        0x0 build/cooja/mtype835.a(mac.o)
+ .data          0x000000000003443c        0x0 build/cooja/mtype835.a(framer-802154.o)
+ .data          0x000000000003443c        0x2 build/cooja/mtype835.a(frame802154.o)
+ .data          0x000000000003443e        0x0 build/cooja/mtype835.a(csma-security.o)
+ .data          0x000000000003443e        0x0 build/cooja/mtype835.a(uipbuf.o)
+ *fill*         0x000000000003443e        0x2 
+ .data          0x0000000000034440       0x20 build/cooja/mtype835.a(uip-icmp6.o)
+ .data          0x0000000000034460       0x10 build/cooja/mtype835.a(uip-sr.o)
+ .data          0x0000000000034470        0xc build/cooja/mtype835.a(uip-packetqueue)
+ .data          0x000000000003447c        0x0 build/cooja/mtype835.a(rpl-nbr-policy.)
+ .data          0x000000000003447c       0x14 build/cooja/mtype835.a(rpl-neighbor.o)
+                0x000000000003448c                rpl_neighbors
+ .data          0x0000000000034490        0x0 build/cooja/mtype835.a(rpl-dag.o)
+ .data          0x0000000000034490        0x0 build/cooja/mtype835.a(rpl-timers.o)
+ .data          0x0000000000034490        0x0 build/cooja/mtype835.a(rpl-ext-header.)
+ *fill*         0x0000000000034490       0x10 
+ .data          0x00000000000344a0       0x24 build/cooja/mtype835.a(rpl-mrhof.o)
+                0x00000000000344a0                rpl_mrhof
+ .data          0x00000000000344c4        0x0 /usr/lib/gcc/i686-linux-gnu/5/libgcc.a(_udivdi3.o)
+ .data          0x00000000000344c4        0x0 /usr/lib/gcc/i686-linux-gnu/5/crtendS.o
+ .data          0x00000000000344c4        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crtn.o
+
+.tm_clone_table
+                0x00000000000344c4        0x0
+ .tm_clone_table
+                0x00000000000344c4        0x0 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+ .tm_clone_table
+                0x00000000000344c4        0x0 /usr/lib/gcc/i686-linux-gnu/5/crtendS.o
+
+.data1
+ *(.data1)
+                0x00000000000344c4                _edata = .
+                [!provide]                        PROVIDE (edata, .)
+                0x00000000000344c4                . = .
+                0x00000000000344c4                __bss_start = .
+
+.bss            0x00000000000344e0    0x13f64
+ *(.dynbss)
+ .dynbss        0x00000000000344e0        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00000000000344e0        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crti.o
+ .bss           0x00000000000344e0        0x1 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+ *fill*         0x00000000000344e1       0x1f 
+ .bss           0x0000000000034500      0x10c light_node.o
+ *fill*         0x000000000003460c       0x14 
+ .bss           0x0000000000034620     0x2030 build/cooja/mtype835.o
+ .bss           0x0000000000036650        0x1 build/cooja/mtype835.a(simEnvChange.o)
+                0x0000000000036650                simDontFallAsleep
+ *fill*         0x0000000000036651        0x3 
+ .bss           0x0000000000036654        0x4 build/cooja/mtype835.a(cooja_mt.o)
+ .bss           0x0000000000036658        0x4 build/cooja/mtype835.a(cooja_mtarch.o)
+ .bss           0x000000000003665c        0x0 build/cooja/mtype835.a(rtimer-arch.o)
+ .bss           0x000000000003665c        0x0 build/cooja/mtype835.a(beep.o)
+ .bss           0x000000000003665c        0x1 build/cooja/mtype835.a(leds-arch.o)
+                0x000000000003665c                simLedsValue
+ .bss           0x000000000003665d        0x0 build/cooja/mtype835.a(moteid.o)
+ .bss           0x000000000003665d        0x1 build/cooja/mtype835.a(pir-sensor.o)
+                0x000000000003665d                simPirValue
+ *fill*         0x000000000003665e        0x2 
+ .bss           0x0000000000036660        0x4 build/cooja/mtype835.a(rs232.o)
+ .bss           0x0000000000036664        0x1 build/cooja/mtype835.a(vib-sensor.o)
+                0x0000000000036664                simVibValue
+ .bss           0x0000000000036665        0x0 build/cooja/mtype835.a(clock.o)
+ *fill*         0x0000000000036665       0x1b 
+ .bss           0x0000000000036680     0x2020 build/cooja/mtype835.a(cooja-log.o)
+ .bss           0x00000000000386a0      0xfc0 build/cooja/mtype835.a(cfs-cooja.o)
+                0x00000000000386a0                simCFSData
+                0x0000000000039640                simCFSSize
+                0x0000000000039644                simCFSChanged
+                0x0000000000039648                simCFSRead
+                0x000000000003964c                simCFSWritten
+ .bss           0x0000000000039660       0x24 build/cooja/mtype835.a(cooja-radio.o)
+                0x0000000000039660                simReceiving
+                0x0000000000039664                simInSize
+                0x0000000000039668                simLastPacketTimestamp
+                0x0000000000039670                simOutSize
+ .bss           0x0000000000039684        0xc build/cooja/mtype835.a(eeprom.o)
+                0x0000000000039684                simEEPROMChanged
+                0x0000000000039688                simEEPROMRead
+                0x000000000003968c                simEEPROMWritten
+ .bss           0x0000000000039690        0x0 build/cooja/mtype835.a(random.o)
+ .bss           0x0000000000039690        0xc build/cooja/mtype835.a(sensors.o)
+ .bss           0x000000000003969c        0x0 build/cooja/mtype835.a(leds.o)
+ .bss           0x000000000003969c       0x24 build/cooja/mtype835.a(gpio-hal-arch.o)
+ .bss           0x00000000000396c0        0x0 build/cooja/mtype835.a(buttons.o)
+ .bss           0x00000000000396c0        0x4 build/cooja/mtype835.a(res_bulbSwitch.)
+ .bss           0x00000000000396c4        0x0 build/cooja/mtype835.a(res_light.o)
+ .bss           0x00000000000396c4        0x0 build/cooja/mtype835.a(coap-blocking-a)
+ *fill*         0x00000000000396c4       0x1c 
+ .bss           0x00000000000396e0      0x190 build/cooja/mtype835.a(coap-engine.o)
+ .bss           0x0000000000039870        0x0 build/cooja/mtype835.a(coap-res-well-k)
+ *fill*         0x0000000000039870       0x10 
+ .bss           0x0000000000039880      0x120 build/cooja/mtype835.a(coap-observe.o)
+ .bss           0x00000000000399a0       0x18 build/cooja/mtype835.a(coap-uip.o)
+ .bss           0x00000000000399b8        0x5 build/cooja/mtype835.a(coap-timer.o)
+ *fill*         0x00000000000399bd        0x3 
+ .bss           0x00000000000399c0      0x334 build/cooja/mtype835.a(coap-transactio)
+ .bss           0x0000000000039cf4        0x6 build/cooja/mtype835.a(coap.o)
+                0x0000000000039cf4                coap_status_code
+ .bss           0x0000000000039cfa        0x0 build/cooja/mtype835.a(contiki-main.o)
+ .bss           0x0000000000039cfa        0x0 build/cooja/mtype835.a(autostart.o)
+ *fill*         0x0000000000039cfa        0x2 
+ .bss           0x0000000000039cfc        0x5 build/cooja/mtype835.a(ctimer.o)
+ *fill*         0x0000000000039d01        0x3 
+ .bss           0x0000000000039d04       0x2c build/cooja/mtype835.a(log.o)
+                0x0000000000039d04                curr_log_level_rpl
+                0x0000000000039d08                curr_log_level_tcpip
+                0x0000000000039d0c                curr_log_level_ipv6
+                0x0000000000039d10                curr_log_level_6lowpan
+                0x0000000000039d14                curr_log_level_nullnet
+                0x0000000000039d18                curr_log_level_mac
+                0x0000000000039d1c                curr_log_level_framer
+                0x0000000000039d20                curr_log_level_6top
+                0x0000000000039d24                curr_log_level_coap
+                0x0000000000039d28                curr_log_level_snmp
+                0x0000000000039d2c                curr_log_level_lwm2m
+ .bss           0x0000000000039d30        0x0 build/cooja/mtype835.a(energest.o)
+ .bss           0x0000000000039d30        0x8 build/cooja/mtype835.a(etimer.o)
+ .bss           0x0000000000039d38        0x2 build/cooja/mtype835.a(node-id.o)
+                0x0000000000039d38                node_id
+ *fill*         0x0000000000039d3a        0x2 
+ .bss           0x0000000000039d3c        0x4 build/cooja/mtype835.a(rtimer.o)
+ .bss           0x0000000000039d40      0x1a1 build/cooja/mtype835.a(process.o)
+                0x0000000000039d40                process_list
+                0x0000000000039d44                process_current
+ .bss           0x0000000000039ee1        0x0 build/cooja/mtype835.a(timer.o)
+ .bss           0x0000000000039ee1        0x0 build/cooja/mtype835.a(list.o)
+ .bss           0x0000000000039ee1        0x0 build/cooja/mtype835.a(memb.o)
+ *fill*         0x0000000000039ee1        0x3 
+ .bss           0x0000000000039ee4       0x10 build/cooja/mtype835.a(button-hal.o)
+ *fill*         0x0000000000039ef4        0xc 
+ .bss           0x0000000000039f00      0x140 build/cooja/mtype835.a(serial-line.o)
+ .bss           0x000000000003a040        0x4 build/cooja/mtype835.a(gpio-hal.o)
+ *fill*         0x000000000003a044       0x1c 
+ .bss           0x000000000003a060     0x2c80 build/cooja/mtype835.a(queuebuf.o)
+ .bss           0x000000000003cce0       0xa0 build/cooja/mtype835.a(packetbuf.o)
+ .bss           0x000000000003cd80        0x4 build/cooja/mtype835.a(netstack.o)
+ .bss           0x000000000003cd84        0x0 build/cooja/mtype835.a(linkaddr.o)
+ .bss           0x000000000003cd84        0x0 build/cooja/mtype835.a(csma.o)
+ *fill*         0x000000000003cd84       0x1c 
+ .bss           0x000000000003cda0      0x726 build/cooja/mtype835.a(csma-output.o)
+ *fill*         0x000000000003d4c6        0x2 
+ .bss           0x000000000003d4c8       0x30 build/cooja/mtype835.a(uip-ds6.o)
+ .bss           0x000000000003d4f8        0x0 build/cooja/mtype835.a(uip-udp-packet.)
+ *fill*         0x000000000003d4f8        0x8 
+ .bss           0x000000000003d500       0x60 build/cooja/mtype835.a(uip-ds6-route.o)
+ .bss           0x000000000003d560       0x10 build/cooja/mtype835.a(tcpip.o)
+ .bss           0x000000000003d570        0x8 build/cooja/mtype835.a(uip6.o)
+                0x000000000003d570                uip_ext_bitmap
+                0x000000000003d572                uip_ext_len
+                0x000000000003d574                uip_last_proto
+ *fill*         0x000000000003d578        0x8 
+ .bss           0x000000000003d580     0x1c20 build/cooja/mtype835.a(uip-ds6-nbr.o)
+ .bss           0x000000000003f1a0       0x10 build/cooja/mtype835.a(uip-nd6.o)
+ *fill*         0x000000000003f1b0       0x10 
+ .bss           0x000000000003f1c0      0x724 build/cooja/mtype835.a(sicslowpan.o)
+ .bss           0x000000000003f8e4        0x0 build/cooja/mtype835.a(uiplib.o)
+ .bss           0x000000000003f8e4        0x1 build/cooja/mtype835.a(rpl.o)
+ .bss           0x000000000003f8e5        0x0 build/cooja/mtype835.a(rpl-icmp6.o)
+ *fill*         0x000000000003f8e5        0x3 
+ .bss           0x000000000003f8e8       0x11 build/cooja/mtype835.a(rpl-dag-root.o)
+ .bss           0x000000000003f8f9        0x0 build/cooja/mtype835.a(watchdog.o)
+ *fill*         0x000000000003f8f9        0x3 
+ .bss           0x000000000003f8fc        0x4 build/cooja/mtype835.a(int-master.o)
+ .bss           0x000000000003f900       0x1c build/cooja/mtype835.a(coap-timer-defa)
+ .bss           0x000000000003f91c        0x0 build/cooja/mtype835.a(stimer.o)
+ .bss           0x000000000003f91c        0x0 build/cooja/mtype835.a(ringbuf.o)
+ .bss           0x000000000003f91c        0x0 build/cooja/mtype835.a(assert.o)
+ *fill*         0x000000000003f91c        0x4 
+ .bss           0x000000000003f920     0x1214 build/cooja/mtype835.a(nbr-table.o)
+ *fill*         0x0000000000040b34        0xc 
+ .bss           0x0000000000040b40      0xe10 build/cooja/mtype835.a(link-stats.o)
+ *fill*         0x0000000000041950       0x10 
+ .bss           0x0000000000041960      0x100 build/cooja/mtype835.a(mac-sequence.o)
+ .bss           0x0000000000041a60        0x0 build/cooja/mtype835.a(mac.o)
+ .bss           0x0000000000041a60        0x2 build/cooja/mtype835.a(framer-802154.o)
+ .bss           0x0000000000041a62        0x0 build/cooja/mtype835.a(frame802154.o)
+ .bss           0x0000000000041a62        0x0 build/cooja/mtype835.a(csma-security.o)
+ *fill*         0x0000000000041a62        0x2 
+ .bss           0x0000000000041a64       0x18 build/cooja/mtype835.a(uipbuf.o)
+ .bss           0x0000000000041a7c       0x18 build/cooja/mtype835.a(uip-icmp6.o)
+ *fill*         0x0000000000041a94        0xc 
+ .bss           0x0000000000041aa0     0x1d80 build/cooja/mtype835.a(uip-sr.o)
+ .bss           0x0000000000043820      0xa78 build/cooja/mtype835.a(uip-packetqueue)
+ .bss           0x0000000000044298        0xe build/cooja/mtype835.a(rpl-nbr-policy.)
+ *fill*         0x00000000000442a6       0x1a 
+ .bss           0x00000000000442c0      0x960 build/cooja/mtype835.a(rpl-neighbor.o)
+ .bss           0x0000000000044c20        0x0 build/cooja/mtype835.a(rpl-dag.o)
+ .bss           0x0000000000044c20       0x40 build/cooja/mtype835.a(rpl-timers.o)
+ .bss           0x0000000000044c60        0x0 build/cooja/mtype835.a(rpl-ext-header.)
+ .bss           0x0000000000044c60        0x0 build/cooja/mtype835.a(rpl-mrhof.o)
+ .bss           0x0000000000044c60        0x0 /usr/lib/gcc/i686-linux-gnu/5/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000044c60        0x0 /usr/lib/gcc/i686-linux-gnu/5/crtendS.o
+ .bss           0x0000000000044c60        0x0 /usr/lib/gcc/i686-linux-gnu/5/../../../i386-linux-gnu/crtn.o
+ *(COMMON)
+ COMMON         0x0000000000044c60        0x8 build/cooja/mtype835.o
+                0x0000000000044c60                referenceVar
+                0x0000000000044c64                sensors_flags
+ COMMON         0x0000000000044c68        0xc build/cooja/mtype835.a(simEnvChange.o)
+                0x0000000000044c68                simEtimerPending
+                0x0000000000044c6c                simProcessRunValue
+                0x0000000000044c70                simEtimerNextExpirationTime
+ *fill*         0x0000000000044c74        0x4 
+ COMMON         0x0000000000044c78       0x18 build/cooja/mtype835.a(rtimer-arch.o)
+                0x0000000000044c78                simRtimerPending
+                0x0000000000044c80                simRtimerCurrentTicks
+                0x0000000000044c88                simRtimerNextExpirationTime
+ COMMON         0x0000000000044c90        0x1 build/cooja/mtype835.a(beep.o)
+                0x0000000000044c90                simBeeped
+ *fill*         0x0000000000044c91        0x3 
+ COMMON         0x0000000000044c94        0xc build/cooja/mtype835.a(moteid.o)
+                0x0000000000044c94                simRandomSeed
+                0x0000000000044c98                simMoteIDChanged
+                0x0000000000044c9c                simMoteID
+ COMMON         0x0000000000044ca0        0x2 build/cooja/mtype835.a(pir-sensor.o)
+                0x0000000000044ca0                simPirIsActive
+                0x0000000000044ca1                simPirChanged
+ *fill*         0x0000000000044ca2       0x1e 
+ COMMON         0x0000000000044cc0      0x820 build/cooja/mtype835.a(rs232.o)
+                0x0000000000044cc0                simSerialReceivingFlag
+                0x0000000000044cc4                simSerialReceivingLength
+                0x0000000000044ce0                simSerialReceivingData
+ COMMON         0x00000000000454e0        0x2 build/cooja/mtype835.a(vib-sensor.o)
+                0x00000000000454e0                simVibChanged
+                0x00000000000454e1                simVibIsActive
+ *fill*         0x00000000000454e2        0x2 
+ COMMON         0x00000000000454e4        0x4 build/cooja/mtype835.a(clock.o)
+                0x00000000000454e4                simCurrentTime
+ *fill*         0x00000000000454e8       0x18 
+ COMMON         0x0000000000045500     0x2020 build/cooja/mtype835.a(cooja-log.o)
+                0x0000000000045500                simLoggedLength
+                0x0000000000045504                simLoggedFlag
+                0x0000000000045520                simLoggedData
+ COMMON         0x0000000000047520       0xfd build/cooja/mtype835.a(cooja-radio.o)
+                0x0000000000047520                simOutDataBuffer
+                0x00000000000475a0                simInDataBuffer
+ *fill*         0x000000000004761d        0x3 
+ COMMON         0x0000000000047620      0x400 build/cooja/mtype835.a(eeprom.o)
+                0x0000000000047620                simEEPROMData
+ COMMON         0x0000000000047a20        0x1 build/cooja/mtype835.a(sensors.o)
+                0x0000000000047a20                sensors_event
+ COMMON         0x0000000000047a21        0x2 build/cooja/mtype835.a(buttons.o)
+                0x0000000000047a21                simButtonIsDown
+                0x0000000000047a22                simButtonChanged
+ *fill*         0x0000000000047a23        0x1 
+ COMMON         0x0000000000047a24       0x60 build/cooja/mtype835.a(contiki-main.o)
+                0x0000000000047a24                eb_per_time_source
+                0x0000000000047a3c                unicast_per_neighbor_rpl_storing
+                0x0000000000047a54                unicast_per_neighbor_rpl_ns
+                0x0000000000047a6c                default_common
+ COMMON         0x0000000000047a84        0x3 build/cooja/mtype835.a(button-hal.o)
+                0x0000000000047a84                button_hal_periodic_event
+                0x0000000000047a85                button_hal_press_event
+                0x0000000000047a86                button_hal_release_event
+ COMMON         0x0000000000047a87        0x1 build/cooja/mtype835.a(serial-line.o)
+                0x0000000000047a87                serial_line_event_message
+ COMMON         0x0000000000047a88       0x2c build/cooja/mtype835.a(packetbuf.o)
+                0x0000000000047a88                packetbuf_attrs
+                0x0000000000047aa4                packetbuf_addrs
+ COMMON         0x0000000000047ab4        0x8 build/cooja/mtype835.a(linkaddr.o)
+                0x0000000000047ab4                linkaddr_node_addr
+ *fill*         0x0000000000047abc        0x4 
+ COMMON         0x0000000000047ac0      0x181 build/cooja/mtype835.a(uip-ds6.o)
+                0x0000000000047ac0                uip_ds6_prefix_list
+                0x0000000000047b20                uip_ds6_timer_periodic
+                0x0000000000047b30                uip_ds6_netif_addr_list_offset
+                0x0000000000047b40                uip_ds6_if
+                0x0000000000047c38                uip_ds6_timer_ra
+                0x0000000000047c40                uip_ds6_addr_size
+ COMMON         0x0000000000047c41        0x1 build/cooja/mtype835.a(tcpip.o)
+                0x0000000000047c41                tcpip_event
+ *fill*         0x0000000000047c42       0x1e 
+ COMMON         0x0000000000047c60      0x648 build/cooja/mtype835.a(uip6.o)
+                0x0000000000047c60                uip_slen
+                0x0000000000047c64                uip_lladdr
+                0x0000000000047c6c                uip_appdata
+                0x0000000000047c70                uip_flags
+                0x0000000000047c80                uip_aligned_buf
+                0x0000000000048180                uip_len
+                0x0000000000048184                uip_sappdata
+                0x00000000000481a0                uip_udp_conns
+                0x00000000000482a0                uip_udp_conn
+                0x00000000000482a4                uip_conn
+ COMMON         0x00000000000482a8       0x10 build/cooja/mtype835.a(rpl.o)
+                0x00000000000482a8                rpl_multicast_addr
+ *fill*         0x00000000000482b8        0x8 
+ COMMON         0x00000000000482c0       0x20 build/cooja/mtype835.a(link-stats.o)
+                0x00000000000482c0                periodic_timer
+ COMMON         0x00000000000482e0      0x164 build/cooja/mtype835.a(rpl-dag.o)
+                0x00000000000482e0                curr_instance
+                0x0000000000048444                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x0000000000048444                . = ALIGN (0x4)
+                0x0000000000048444                . = SEGMENT_START ("ldata-segment", .)
+                0x0000000000048444                . = ALIGN (0x4)
+                0x0000000000048444                _end = .
+                [!provide]                        PROVIDE (end, .)
+                0x0000000000048444                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x35
+ *(.comment)
+ .comment       0x0000000000000000       0x35 /usr/lib/gcc/i686-linux-gnu/5/crtbeginS.o
+                                         0x36 (size before relaxing)
+ .comment       0x0000000000000035       0x36 light_node.o
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.o
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(simEnvChange.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(cooja_mt.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(cooja_mtarch.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rtimer-arch.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(beep.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(leds-arch.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(moteid.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(pir-sensor.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rs232.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(vib-sensor.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(clock.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(cooja-log.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(cfs-cooja.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(cooja-radio.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(eeprom.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(random.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(sensors.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(leds.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(gpio-hal-arch.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(buttons.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(res_bulbSwitch.)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(res_light.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(coap-blocking-a)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(coap-engine.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(coap-res-well-k)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(coap-observe.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(coap-uip.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(coap-timer.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(coap-transactio)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(coap.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(contiki-main.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(autostart.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(ctimer.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(log.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(energest.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(etimer.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(node-id.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rtimer.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(process.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(timer.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(list.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(memb.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(button-hal.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(serial-line.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(gpio-hal.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(queuebuf.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(packetbuf.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(netstack.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(linkaddr.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(csma.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(csma-output.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uip-ds6.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uip-udp-packet.)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uip-ds6-route.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(tcpip.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uip6.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uip-ds6-nbr.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uip-nd6.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(sicslowpan.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uiplib.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rpl.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rpl-icmp6.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rpl-dag-root.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(watchdog.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(int-master.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(coap-timer-defa)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(stimer.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(ringbuf.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(assert.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(nbr-table.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(link-stats.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(mac-sequence.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(mac.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(framer-802154.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(frame802154.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(csma-security.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uipbuf.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uip-icmp6.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uip-sr.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(uip-packetqueue)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rpl-nbr-policy.)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rpl-neighbor.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rpl-dag.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rpl-timers.o)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rpl-ext-header.)
+ .comment       0x0000000000000035       0x36 build/cooja/mtype835.a(rpl-mrhof.o)
+ .comment       0x0000000000000035       0x36 /usr/lib/gcc/i686-linux-gnu/5/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0xb00
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 light_node.o
+ .debug_aranges
+                0x0000000000000020       0x20 build/cooja/mtype835.o
+ .debug_aranges
+                0x0000000000000040       0x20 build/cooja/mtype835.a(simEnvChange.o)
+ .debug_aranges
+                0x0000000000000060       0x20 build/cooja/mtype835.a(cooja_mt.o)
+ .debug_aranges
+                0x0000000000000080       0x20 build/cooja/mtype835.a(cooja_mtarch.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 build/cooja/mtype835.a(rtimer-arch.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 build/cooja/mtype835.a(beep.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 build/cooja/mtype835.a(leds-arch.o)
+ .debug_aranges
+                0x0000000000000100       0x20 build/cooja/mtype835.a(moteid.o)
+ .debug_aranges
+                0x0000000000000120       0x20 build/cooja/mtype835.a(pir-sensor.o)
+ .debug_aranges
+                0x0000000000000140       0x20 build/cooja/mtype835.a(rs232.o)
+ .debug_aranges
+                0x0000000000000160       0x20 build/cooja/mtype835.a(vib-sensor.o)
+ .debug_aranges
+                0x0000000000000180       0x20 build/cooja/mtype835.a(clock.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 build/cooja/mtype835.a(cooja-log.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 build/cooja/mtype835.a(cfs-cooja.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 build/cooja/mtype835.a(cooja-radio.o)
+ .debug_aranges
+                0x0000000000000200       0x20 build/cooja/mtype835.a(eeprom.o)
+ .debug_aranges
+                0x0000000000000220       0x20 build/cooja/mtype835.a(random.o)
+ .debug_aranges
+                0x0000000000000240       0x20 build/cooja/mtype835.a(sensors.o)
+ .debug_aranges
+                0x0000000000000260       0x20 build/cooja/mtype835.a(leds.o)
+ .debug_aranges
+                0x0000000000000280       0x20 build/cooja/mtype835.a(gpio-hal-arch.o)
+ .debug_aranges
+                0x00000000000002a0       0x20 build/cooja/mtype835.a(buttons.o)
+ .debug_aranges
+                0x00000000000002c0       0x20 build/cooja/mtype835.a(res_bulbSwitch.)
+ .debug_aranges
+                0x00000000000002e0       0x20 build/cooja/mtype835.a(res_light.o)
+ .debug_aranges
+                0x0000000000000300       0x20 build/cooja/mtype835.a(coap-blocking-a)
+ .debug_aranges
+                0x0000000000000320       0x20 build/cooja/mtype835.a(coap-engine.o)
+ .debug_aranges
+                0x0000000000000340       0x20 build/cooja/mtype835.a(coap-res-well-k)
+ .debug_aranges
+                0x0000000000000360       0x20 build/cooja/mtype835.a(coap-observe.o)
+ .debug_aranges
+                0x0000000000000380       0x20 build/cooja/mtype835.a(coap-uip.o)
+ .debug_aranges
+                0x00000000000003a0       0x20 build/cooja/mtype835.a(coap-timer.o)
+ .debug_aranges
+                0x00000000000003c0       0x20 build/cooja/mtype835.a(coap-transactio)
+ .debug_aranges
+                0x00000000000003e0       0x20 build/cooja/mtype835.a(coap.o)
+ .debug_aranges
+                0x0000000000000400       0x20 build/cooja/mtype835.a(contiki-main.o)
+ .debug_aranges
+                0x0000000000000420       0x20 build/cooja/mtype835.a(autostart.o)
+ .debug_aranges
+                0x0000000000000440       0x20 build/cooja/mtype835.a(ctimer.o)
+ .debug_aranges
+                0x0000000000000460       0x20 build/cooja/mtype835.a(log.o)
+ .debug_aranges
+                0x0000000000000480       0x20 build/cooja/mtype835.a(energest.o)
+ .debug_aranges
+                0x00000000000004a0       0x20 build/cooja/mtype835.a(etimer.o)
+ .debug_aranges
+                0x00000000000004c0       0x20 build/cooja/mtype835.a(node-id.o)
+ .debug_aranges
+                0x00000000000004e0       0x20 build/cooja/mtype835.a(rtimer.o)
+ .debug_aranges
+                0x0000000000000500       0x20 build/cooja/mtype835.a(process.o)
+ .debug_aranges
+                0x0000000000000520       0x20 build/cooja/mtype835.a(timer.o)
+ .debug_aranges
+                0x0000000000000540       0x20 build/cooja/mtype835.a(list.o)
+ .debug_aranges
+                0x0000000000000560       0x20 build/cooja/mtype835.a(memb.o)
+ .debug_aranges
+                0x0000000000000580       0x20 build/cooja/mtype835.a(button-hal.o)
+ .debug_aranges
+                0x00000000000005a0       0x20 build/cooja/mtype835.a(serial-line.o)
+ .debug_aranges
+                0x00000000000005c0       0x20 build/cooja/mtype835.a(gpio-hal.o)
+ .debug_aranges
+                0x00000000000005e0       0x20 build/cooja/mtype835.a(queuebuf.o)
+ .debug_aranges
+                0x0000000000000600       0x20 build/cooja/mtype835.a(packetbuf.o)
+ .debug_aranges
+                0x0000000000000620       0x20 build/cooja/mtype835.a(netstack.o)
+ .debug_aranges
+                0x0000000000000640       0x20 build/cooja/mtype835.a(linkaddr.o)
+ .debug_aranges
+                0x0000000000000660       0x20 build/cooja/mtype835.a(csma.o)
+ .debug_aranges
+                0x0000000000000680       0x20 build/cooja/mtype835.a(csma-output.o)
+ .debug_aranges
+                0x00000000000006a0       0x20 build/cooja/mtype835.a(uip-ds6.o)
+ .debug_aranges
+                0x00000000000006c0       0x20 build/cooja/mtype835.a(uip-udp-packet.)
+ .debug_aranges
+                0x00000000000006e0       0x20 build/cooja/mtype835.a(uip-ds6-route.o)
+ .debug_aranges
+                0x0000000000000700       0x20 build/cooja/mtype835.a(tcpip.o)
+ .debug_aranges
+                0x0000000000000720       0x20 build/cooja/mtype835.a(uip6.o)
+ .debug_aranges
+                0x0000000000000740       0x20 build/cooja/mtype835.a(uip-ds6-nbr.o)
+ .debug_aranges
+                0x0000000000000760       0x20 build/cooja/mtype835.a(uip-nd6.o)
+ .debug_aranges
+                0x0000000000000780       0x20 build/cooja/mtype835.a(sicslowpan.o)
+ .debug_aranges
+                0x00000000000007a0       0x20 build/cooja/mtype835.a(uiplib.o)
+ .debug_aranges
+                0x00000000000007c0       0x20 build/cooja/mtype835.a(rpl.o)
+ .debug_aranges
+                0x00000000000007e0       0x20 build/cooja/mtype835.a(rpl-icmp6.o)
+ .debug_aranges
+                0x0000000000000800       0x20 build/cooja/mtype835.a(rpl-dag-root.o)
+ .debug_aranges
+                0x0000000000000820       0x20 build/cooja/mtype835.a(watchdog.o)
+ .debug_aranges
+                0x0000000000000840       0x20 build/cooja/mtype835.a(int-master.o)
+ .debug_aranges
+                0x0000000000000860       0x20 build/cooja/mtype835.a(coap-timer-defa)
+ .debug_aranges
+                0x0000000000000880       0x20 build/cooja/mtype835.a(stimer.o)
+ .debug_aranges
+                0x00000000000008a0       0x20 build/cooja/mtype835.a(ringbuf.o)
+ .debug_aranges
+                0x00000000000008c0       0x20 build/cooja/mtype835.a(assert.o)
+ .debug_aranges
+                0x00000000000008e0       0x20 build/cooja/mtype835.a(nbr-table.o)
+ .debug_aranges
+                0x0000000000000900       0x20 build/cooja/mtype835.a(link-stats.o)
+ .debug_aranges
+                0x0000000000000920       0x20 build/cooja/mtype835.a(mac-sequence.o)
+ .debug_aranges
+                0x0000000000000940       0x20 build/cooja/mtype835.a(mac.o)
+ .debug_aranges
+                0x0000000000000960       0x20 build/cooja/mtype835.a(framer-802154.o)
+ .debug_aranges
+                0x0000000000000980       0x20 build/cooja/mtype835.a(frame802154.o)
+ .debug_aranges
+                0x00000000000009a0       0x20 build/cooja/mtype835.a(csma-security.o)
+ .debug_aranges
+                0x00000000000009c0       0x20 build/cooja/mtype835.a(uipbuf.o)
+ .debug_aranges
+                0x00000000000009e0       0x20 build/cooja/mtype835.a(uip-icmp6.o)
+ .debug_aranges
+                0x0000000000000a00       0x20 build/cooja/mtype835.a(uip-sr.o)
+ .debug_aranges
+                0x0000000000000a20       0x20 build/cooja/mtype835.a(uip-packetqueue)
+ .debug_aranges
+                0x0000000000000a40       0x20 build/cooja/mtype835.a(rpl-nbr-policy.)
+ .debug_aranges
+                0x0000000000000a60       0x20 build/cooja/mtype835.a(rpl-neighbor.o)
+ .debug_aranges
+                0x0000000000000a80       0x20 build/cooja/mtype835.a(rpl-dag.o)
+ .debug_aranges
+                0x0000000000000aa0       0x20 build/cooja/mtype835.a(rpl-timers.o)
+ .debug_aranges
+                0x0000000000000ac0       0x20 build/cooja/mtype835.a(rpl-ext-header.)
+ .debug_aranges
+                0x0000000000000ae0       0x20 build/cooja/mtype835.a(rpl-mrhof.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x2714d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0xa9b light_node.o
+ .debug_info    0x0000000000000a9b     0x325a build/cooja/mtype835.o
+ .debug_info    0x0000000000003cf5      0x15a build/cooja/mtype835.a(simEnvChange.o)
+ .debug_info    0x0000000000003e4f      0x1af build/cooja/mtype835.a(cooja_mt.o)
+ .debug_info    0x0000000000003ffe      0x212 build/cooja/mtype835.a(cooja_mtarch.o)
+ .debug_info    0x0000000000004210      0x181 build/cooja/mtype835.a(rtimer-arch.o)
+ .debug_info    0x0000000000004391      0x1fa build/cooja/mtype835.a(beep.o)
+ .debug_info    0x000000000000458b      0x194 build/cooja/mtype835.a(leds-arch.o)
+ .debug_info    0x000000000000471f      0x111 build/cooja/mtype835.a(moteid.o)
+ .debug_info    0x0000000000004830      0x21d build/cooja/mtype835.a(pir-sensor.o)
+ .debug_info    0x0000000000004a4d      0x21e build/cooja/mtype835.a(rs232.o)
+ .debug_info    0x0000000000004c6b      0x21d build/cooja/mtype835.a(vib-sensor.o)
+ .debug_info    0x0000000000004e88      0x159 build/cooja/mtype835.a(clock.o)
+ .debug_info    0x0000000000004fe1      0x2bb build/cooja/mtype835.a(cooja-log.o)
+ .debug_info    0x000000000000529c      0x3cf build/cooja/mtype835.a(cfs-cooja.o)
+ .debug_info    0x000000000000566b      0xb0a build/cooja/mtype835.a(cooja-radio.o)
+ .debug_info    0x0000000000006175      0x1d5 build/cooja/mtype835.a(eeprom.o)
+ .debug_info    0x000000000000634a       0xb3 build/cooja/mtype835.a(random.o)
+ .debug_info    0x00000000000063fd      0x36d build/cooja/mtype835.a(sensors.o)
+ .debug_info    0x000000000000676a      0x28a build/cooja/mtype835.a(leds.o)
+ .debug_info    0x00000000000069f4      0x40e build/cooja/mtype835.a(gpio-hal-arch.o)
+ .debug_info    0x0000000000006e02      0x4bc build/cooja/mtype835.a(buttons.o)
+ .debug_info    0x00000000000072be      0x940 build/cooja/mtype835.a(res_bulbSwitch.)
+ .debug_info    0x0000000000007bfe      0x8f8 build/cooja/mtype835.a(res_light.o)
+ .debug_info    0x00000000000084f6      0x836 build/cooja/mtype835.a(coap-blocking-a)
+ .debug_info    0x0000000000008d2c      0xe93 build/cooja/mtype835.a(coap-engine.o)
+ .debug_info    0x0000000000009bbf      0x8a4 build/cooja/mtype835.a(coap-res-well-k)
+ .debug_info    0x000000000000a463      0xdd0 build/cooja/mtype835.a(coap-observe.o)
+ .debug_info    0x000000000000b233      0xe48 build/cooja/mtype835.a(coap-uip.o)
+ .debug_info    0x000000000000c07b      0x2f1 build/cooja/mtype835.a(coap-timer.o)
+ .debug_info    0x000000000000c36c      0x862 build/cooja/mtype835.a(coap-transactio)
+ .debug_info    0x000000000000cbce     0x14c2 build/cooja/mtype835.a(coap.o)
+ .debug_info    0x000000000000e090      0xf52 build/cooja/mtype835.a(contiki-main.o)
+ .debug_info    0x000000000000efe2      0x1ac build/cooja/mtype835.a(autostart.o)
+ .debug_info    0x000000000000f18e      0x473 build/cooja/mtype835.a(ctimer.o)
+ .debug_info    0x000000000000f601      0x483 build/cooja/mtype835.a(log.o)
+ .debug_info    0x000000000000fa84       0xbc build/cooja/mtype835.a(energest.o)
+ .debug_info    0x000000000000fb40      0x49f build/cooja/mtype835.a(etimer.o)
+ .debug_info    0x000000000000ffdf       0xfb build/cooja/mtype835.a(node-id.o)
+ .debug_info    0x00000000000100da      0x1c1 build/cooja/mtype835.a(rtimer.o)
+ .debug_info    0x000000000001029b      0x4ab build/cooja/mtype835.a(process.o)
+ .debug_info    0x0000000000010746      0x17a build/cooja/mtype835.a(timer.o)
+ .debug_info    0x00000000000108c0      0x38b build/cooja/mtype835.a(list.o)
+ .debug_info    0x0000000000010c4b      0x1e4 build/cooja/mtype835.a(memb.o)
+ .debug_info    0x0000000000010e2f      0x60c build/cooja/mtype835.a(button-hal.o)
+ .debug_info    0x000000000001143b      0x2de build/cooja/mtype835.a(serial-line.o)
+ .debug_info    0x0000000000011719      0x25d build/cooja/mtype835.a(gpio-hal.o)
+ .debug_info    0x0000000000011976      0x570 build/cooja/mtype835.a(queuebuf.o)
+ .debug_info    0x0000000000011ee6      0x553 build/cooja/mtype835.a(packetbuf.o)
+ .debug_info    0x0000000000012439      0x56a build/cooja/mtype835.a(netstack.o)
+ .debug_info    0x00000000000129a3      0x18b build/cooja/mtype835.a(linkaddr.o)
+ .debug_info    0x0000000000012b2e      0x68e build/cooja/mtype835.a(csma.o)
+ .debug_info    0x00000000000131bc      0xc80 build/cooja/mtype835.a(csma-output.o)
+ .debug_info    0x0000000000013e3c      0xae8 build/cooja/mtype835.a(uip-ds6.o)
+ .debug_info    0x0000000000014924      0x37a build/cooja/mtype835.a(uip-udp-packet.)
+ .debug_info    0x0000000000014c9e      0x881 build/cooja/mtype835.a(uip-ds6-route.o)
+ .debug_info    0x000000000001551f      0xf3d build/cooja/mtype835.a(tcpip.o)
+ .debug_info    0x000000000001645c     0x116c build/cooja/mtype835.a(uip6.o)
+ .debug_info    0x00000000000175c8      0xb97 build/cooja/mtype835.a(uip-ds6-nbr.o)
+ .debug_info    0x000000000001815f      0x7fb build/cooja/mtype835.a(uip-nd6.o)
+ .debug_info    0x000000000001895a     0x1723 build/cooja/mtype835.a(sicslowpan.o)
+ .debug_info    0x000000000001a07d      0x30b build/cooja/mtype835.a(uiplib.o)
+ .debug_info    0x000000000001a388     0x10bb build/cooja/mtype835.a(rpl.o)
+ .debug_info    0x000000000001b443     0x1065 build/cooja/mtype835.a(rpl-icmp6.o)
+ .debug_info    0x000000000001c4a8      0xb33 build/cooja/mtype835.a(rpl-dag-root.o)
+ .debug_info    0x000000000001cfdb       0xda build/cooja/mtype835.a(watchdog.o)
+ .debug_info    0x000000000001d0b5      0x119 build/cooja/mtype835.a(int-master.o)
+ .debug_info    0x000000000001d1ce      0x330 build/cooja/mtype835.a(coap-timer-defa)
+ .debug_info    0x000000000001d4fe      0x187 build/cooja/mtype835.a(stimer.o)
+ .debug_info    0x000000000001d685      0x1b8 build/cooja/mtype835.a(ringbuf.o)
+ .debug_info    0x000000000001d83d       0xb3 build/cooja/mtype835.a(assert.o)
+ .debug_info    0x000000000001d8f0      0x95a build/cooja/mtype835.a(nbr-table.o)
+ .debug_info    0x000000000001e24a      0x67c build/cooja/mtype835.a(link-stats.o)
+ .debug_info    0x000000000001e8c6      0x213 build/cooja/mtype835.a(mac-sequence.o)
+ .debug_info    0x000000000001ead9       0xf3 build/cooja/mtype835.a(mac.o)
+ .debug_info    0x000000000001ebcc      0x512 build/cooja/mtype835.a(framer-802154.o)
+ .debug_info    0x000000000001f0de      0x738 build/cooja/mtype835.a(frame802154.o)
+ .debug_info    0x000000000001f816      0x166 build/cooja/mtype835.a(csma-security.o)
+ .debug_info    0x000000000001f97c      0x575 build/cooja/mtype835.a(uipbuf.o)
+ .debug_info    0x000000000001fef1      0xd4a build/cooja/mtype835.a(uip-icmp6.o)
+ .debug_info    0x0000000000020c3b      0xb31 build/cooja/mtype835.a(uip-sr.o)
+ .debug_info    0x000000000002176c      0x477 build/cooja/mtype835.a(uip-packetqueue)
+ .debug_info    0x0000000000021be3      0xc0e build/cooja/mtype835.a(rpl-nbr-policy.)
+ .debug_info    0x00000000000227f1      0xe69 build/cooja/mtype835.a(rpl-neighbor.o)
+ .debug_info    0x000000000002365a      0xfe3 build/cooja/mtype835.a(rpl-dag.o)
+ .debug_info    0x000000000002463d      0xcbb build/cooja/mtype835.a(rpl-timers.o)
+ .debug_info    0x00000000000252f8     0x1496 build/cooja/mtype835.a(rpl-ext-header.)
+ .debug_info    0x000000000002678e      0x9bf build/cooja/mtype835.a(rpl-mrhof.o)
+
+.debug_abbrev   0x0000000000000000     0x91bf
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x1e2 light_node.o
+ .debug_abbrev  0x00000000000001e2      0x27e build/cooja/mtype835.o
+ .debug_abbrev  0x0000000000000460       0xc3 build/cooja/mtype835.a(simEnvChange.o)
+ .debug_abbrev  0x0000000000000523       0xe6 build/cooja/mtype835.a(cooja_mt.o)
+ .debug_abbrev  0x0000000000000609      0x11e build/cooja/mtype835.a(cooja_mtarch.o)
+ .debug_abbrev  0x0000000000000727       0xeb build/cooja/mtype835.a(rtimer-arch.o)
+ .debug_abbrev  0x0000000000000812       0xe3 build/cooja/mtype835.a(beep.o)
+ .debug_abbrev  0x00000000000008f5       0xe0 build/cooja/mtype835.a(leds-arch.o)
+ .debug_abbrev  0x00000000000009d5       0x9c build/cooja/mtype835.a(moteid.o)
+ .debug_abbrev  0x0000000000000a71       0xe6 build/cooja/mtype835.a(pir-sensor.o)
+ .debug_abbrev  0x0000000000000b57      0x14a build/cooja/mtype835.a(rs232.o)
+ .debug_abbrev  0x0000000000000ca1       0xe6 build/cooja/mtype835.a(vib-sensor.o)
+ .debug_abbrev  0x0000000000000d87       0xee build/cooja/mtype835.a(clock.o)
+ .debug_abbrev  0x0000000000000e75      0x141 build/cooja/mtype835.a(cooja-log.o)
+ .debug_abbrev  0x0000000000000fb6      0x139 build/cooja/mtype835.a(cfs-cooja.o)
+ .debug_abbrev  0x00000000000010ef      0x2ef build/cooja/mtype835.a(cooja-radio.o)
+ .debug_abbrev  0x00000000000013de       0xf5 build/cooja/mtype835.a(eeprom.o)
+ .debug_abbrev  0x00000000000014d3       0x6d build/cooja/mtype835.a(random.o)
+ .debug_abbrev  0x0000000000001540      0x1c2 build/cooja/mtype835.a(sensors.o)
+ .debug_abbrev  0x0000000000001702       0xfc build/cooja/mtype835.a(leds.o)
+ .debug_abbrev  0x00000000000017fe      0x115 build/cooja/mtype835.a(gpio-hal-arch.o)
+ .debug_abbrev  0x0000000000001913      0x16f build/cooja/mtype835.a(buttons.o)
+ .debug_abbrev  0x0000000000001a82      0x18c build/cooja/mtype835.a(res_bulbSwitch.)
+ .debug_abbrev  0x0000000000001c0e      0x1a4 build/cooja/mtype835.a(res_light.o)
+ .debug_abbrev  0x0000000000001db2      0x1c3 build/cooja/mtype835.a(coap-blocking-a)
+ .debug_abbrev  0x0000000000001f75      0x2d5 build/cooja/mtype835.a(coap-engine.o)
+ .debug_abbrev  0x000000000000224a      0x169 build/cooja/mtype835.a(coap-res-well-k)
+ .debug_abbrev  0x00000000000023b3      0x234 build/cooja/mtype835.a(coap-observe.o)
+ .debug_abbrev  0x00000000000025e7      0x378 build/cooja/mtype835.a(coap-uip.o)
+ .debug_abbrev  0x000000000000295f      0x155 build/cooja/mtype835.a(coap-timer.o)
+ .debug_abbrev  0x0000000000002ab4      0x1c4 build/cooja/mtype835.a(coap-transactio)
+ .debug_abbrev  0x0000000000002c78      0x23c build/cooja/mtype835.a(coap.o)
+ .debug_abbrev  0x0000000000002eb4      0x1ef build/cooja/mtype835.a(contiki-main.o)
+ .debug_abbrev  0x00000000000030a3       0xfb build/cooja/mtype835.a(autostart.o)
+ .debug_abbrev  0x000000000000319e      0x1a1 build/cooja/mtype835.a(ctimer.o)
+ .debug_abbrev  0x000000000000333f      0x159 build/cooja/mtype835.a(log.o)
+ .debug_abbrev  0x0000000000003498       0x69 build/cooja/mtype835.a(energest.o)
+ .debug_abbrev  0x0000000000003501      0x1f8 build/cooja/mtype835.a(etimer.o)
+ .debug_abbrev  0x00000000000036f9       0x9d build/cooja/mtype835.a(node-id.o)
+ .debug_abbrev  0x0000000000003796      0x126 build/cooja/mtype835.a(rtimer.o)
+ .debug_abbrev  0x00000000000038bc      0x244 build/cooja/mtype835.a(process.o)
+ .debug_abbrev  0x0000000000003b00       0xdb build/cooja/mtype835.a(timer.o)
+ .debug_abbrev  0x0000000000003bdb      0x136 build/cooja/mtype835.a(list.o)
+ .debug_abbrev  0x0000000000003d11       0xe4 build/cooja/mtype835.a(memb.o)
+ .debug_abbrev  0x0000000000003df5      0x1ea build/cooja/mtype835.a(button-hal.o)
+ .debug_abbrev  0x0000000000003fdf      0x190 build/cooja/mtype835.a(serial-line.o)
+ .debug_abbrev  0x000000000000416f       0xd4 build/cooja/mtype835.a(gpio-hal.o)
+ .debug_abbrev  0x0000000000004243      0x1a6 build/cooja/mtype835.a(queuebuf.o)
+ .debug_abbrev  0x00000000000043e9      0x1da build/cooja/mtype835.a(packetbuf.o)
+ .debug_abbrev  0x00000000000045c3      0x1d5 build/cooja/mtype835.a(netstack.o)
+ .debug_abbrev  0x0000000000004798       0xf2 build/cooja/mtype835.a(linkaddr.o)
+ .debug_abbrev  0x000000000000488a      0x1ff build/cooja/mtype835.a(csma.o)
+ .debug_abbrev  0x0000000000004a89      0x269 build/cooja/mtype835.a(csma-output.o)
+ .debug_abbrev  0x0000000000004cf2      0x272 build/cooja/mtype835.a(uip-ds6.o)
+ .debug_abbrev  0x0000000000004f64      0x195 build/cooja/mtype835.a(uip-udp-packet.)
+ .debug_abbrev  0x00000000000050f9      0x2b0 build/cooja/mtype835.a(uip-ds6-route.o)
+ .debug_abbrev  0x00000000000053a9      0x3a7 build/cooja/mtype835.a(tcpip.o)
+ .debug_abbrev  0x0000000000005750      0x2cc build/cooja/mtype835.a(uip6.o)
+ .debug_abbrev  0x0000000000005a1c      0x295 build/cooja/mtype835.a(uip-ds6-nbr.o)
+ .debug_abbrev  0x0000000000005cb1      0x232 build/cooja/mtype835.a(uip-nd6.o)
+ .debug_abbrev  0x0000000000005ee3      0x2e2 build/cooja/mtype835.a(sicslowpan.o)
+ .debug_abbrev  0x00000000000061c5      0x11d build/cooja/mtype835.a(uiplib.o)
+ .debug_abbrev  0x00000000000062e2      0x2d2 build/cooja/mtype835.a(rpl.o)
+ .debug_abbrev  0x00000000000065b4      0x303 build/cooja/mtype835.a(rpl-icmp6.o)
+ .debug_abbrev  0x00000000000068b7      0x21b build/cooja/mtype835.a(rpl-dag-root.o)
+ .debug_abbrev  0x0000000000006ad2       0x6b build/cooja/mtype835.a(watchdog.o)
+ .debug_abbrev  0x0000000000006b3d       0xcc build/cooja/mtype835.a(int-master.o)
+ .debug_abbrev  0x0000000000006c09      0x184 build/cooja/mtype835.a(coap-timer-defa)
+ .debug_abbrev  0x0000000000006d8d       0xbf build/cooja/mtype835.a(stimer.o)
+ .debug_abbrev  0x0000000000006e4c       0xdb build/cooja/mtype835.a(ringbuf.o)
+ .debug_abbrev  0x0000000000006f27       0x61 build/cooja/mtype835.a(assert.o)
+ .debug_abbrev  0x0000000000006f88      0x201 build/cooja/mtype835.a(nbr-table.o)
+ .debug_abbrev  0x0000000000007189      0x22b build/cooja/mtype835.a(link-stats.o)
+ .debug_abbrev  0x00000000000073b4       0xed build/cooja/mtype835.a(mac-sequence.o)
+ .debug_abbrev  0x00000000000074a1       0x8d build/cooja/mtype835.a(mac.o)
+ .debug_abbrev  0x000000000000752e      0x16c build/cooja/mtype835.a(framer-802154.o)
+ .debug_abbrev  0x000000000000769a      0x215 build/cooja/mtype835.a(frame802154.o)
+ .debug_abbrev  0x00000000000078af       0xa4 build/cooja/mtype835.a(csma-security.o)
+ .debug_abbrev  0x0000000000007953      0x173 build/cooja/mtype835.a(uipbuf.o)
+ .debug_abbrev  0x0000000000007ac6      0x29a build/cooja/mtype835.a(uip-icmp6.o)
+ .debug_abbrev  0x0000000000007d60      0x24e build/cooja/mtype835.a(uip-sr.o)
+ .debug_abbrev  0x0000000000007fae      0x1d4 build/cooja/mtype835.a(uip-packetqueue)
+ .debug_abbrev  0x0000000000008182      0x25f build/cooja/mtype835.a(rpl-nbr-policy.)
+ .debug_abbrev  0x00000000000083e1      0x31d build/cooja/mtype835.a(rpl-neighbor.o)
+ .debug_abbrev  0x00000000000086fe      0x34c build/cooja/mtype835.a(rpl-dag.o)
+ .debug_abbrev  0x0000000000008a4a      0x297 build/cooja/mtype835.a(rpl-timers.o)
+ .debug_abbrev  0x0000000000008ce1      0x2f9 build/cooja/mtype835.a(rpl-ext-header.)
+ .debug_abbrev  0x0000000000008fda      0x1e5 build/cooja/mtype835.a(rpl-mrhof.o)
+
+.debug_line     0x0000000000000000     0xa6f9
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x1dd light_node.o
+ .debug_line    0x00000000000001dd      0x33e build/cooja/mtype835.o
+ .debug_line    0x000000000000051b       0xfe build/cooja/mtype835.a(simEnvChange.o)
+ .debug_line    0x0000000000000619       0xdd build/cooja/mtype835.a(cooja_mt.o)
+ .debug_line    0x00000000000006f6       0xd1 build/cooja/mtype835.a(cooja_mtarch.o)
+ .debug_line    0x00000000000007c7       0xe3 build/cooja/mtype835.a(rtimer-arch.o)
+ .debug_line    0x00000000000008aa       0xed build/cooja/mtype835.a(beep.o)
+ .debug_line    0x0000000000000997       0xf3 build/cooja/mtype835.a(leds-arch.o)
+ .debug_line    0x0000000000000a8a       0xa1 build/cooja/mtype835.a(moteid.o)
+ .debug_line    0x0000000000000b2b       0xe0 build/cooja/mtype835.a(pir-sensor.o)
+ .debug_line    0x0000000000000c0b       0xe2 build/cooja/mtype835.a(rs232.o)
+ .debug_line    0x0000000000000ced       0xe0 build/cooja/mtype835.a(vib-sensor.o)
+ .debug_line    0x0000000000000dcd       0xde build/cooja/mtype835.a(clock.o)
+ .debug_line    0x0000000000000eab      0x131 build/cooja/mtype835.a(cooja-log.o)
+ .debug_line    0x0000000000000fdc      0x12d build/cooja/mtype835.a(cfs-cooja.o)
+ .debug_line    0x0000000000001109      0x2bc build/cooja/mtype835.a(cooja-radio.o)
+ .debug_line    0x00000000000013c5       0xdf build/cooja/mtype835.a(eeprom.o)
+ .debug_line    0x00000000000014a4       0x53 build/cooja/mtype835.a(random.o)
+ .debug_line    0x00000000000014f7      0x12c build/cooja/mtype835.a(sensors.o)
+ .debug_line    0x0000000000001623      0x12b build/cooja/mtype835.a(leds.o)
+ .debug_line    0x000000000000174e      0x172 build/cooja/mtype835.a(gpio-hal-arch.o)
+ .debug_line    0x00000000000018c0      0x1b5 build/cooja/mtype835.a(buttons.o)
+ .debug_line    0x0000000000001a75      0x170 build/cooja/mtype835.a(res_bulbSwitch.)
+ .debug_line    0x0000000000001be5      0x165 build/cooja/mtype835.a(res_light.o)
+ .debug_line    0x0000000000001d4a      0x20b build/cooja/mtype835.a(coap-blocking-a)
+ .debug_line    0x0000000000001f55      0x363 build/cooja/mtype835.a(coap-engine.o)
+ .debug_line    0x00000000000022b8      0x21d build/cooja/mtype835.a(coap-res-well-k)
+ .debug_line    0x00000000000024d5      0x31a build/cooja/mtype835.a(coap-observe.o)
+ .debug_line    0x00000000000027ef      0x3a3 build/cooja/mtype835.a(coap-uip.o)
+ .debug_line    0x0000000000002b92      0x115 build/cooja/mtype835.a(coap-timer.o)
+ .debug_line    0x0000000000002ca7      0x1f0 build/cooja/mtype835.a(coap-transactio)
+ .debug_line    0x0000000000002e97      0x56c build/cooja/mtype835.a(coap.o)
+ .debug_line    0x0000000000003403      0x3ed build/cooja/mtype835.a(contiki-main.o)
+ .debug_line    0x00000000000037f0       0xa0 build/cooja/mtype835.a(autostart.o)
+ .debug_line    0x0000000000003890      0x18a build/cooja/mtype835.a(ctimer.o)
+ .debug_line    0x0000000000003a1a      0x173 build/cooja/mtype835.a(log.o)
+ .debug_line    0x0000000000003b8d       0x70 build/cooja/mtype835.a(energest.o)
+ .debug_line    0x0000000000003bfd      0x1aa build/cooja/mtype835.a(etimer.o)
+ .debug_line    0x0000000000003da7       0x90 build/cooja/mtype835.a(node-id.o)
+ .debug_line    0x0000000000003e37       0x92 build/cooja/mtype835.a(rtimer.o)
+ .debug_line    0x0000000000003ec9      0x18a build/cooja/mtype835.a(process.o)
+ .debug_line    0x0000000000004053       0xad build/cooja/mtype835.a(timer.o)
+ .debug_line    0x0000000000004100      0x11c build/cooja/mtype835.a(list.o)
+ .debug_line    0x000000000000421c       0xc5 build/cooja/mtype835.a(memb.o)
+ .debug_line    0x00000000000042e1      0x220 build/cooja/mtype835.a(button-hal.o)
+ .debug_line    0x0000000000004501      0x139 build/cooja/mtype835.a(serial-line.o)
+ .debug_line    0x000000000000463a       0xca build/cooja/mtype835.a(gpio-hal.o)
+ .debug_line    0x0000000000004704      0x100 build/cooja/mtype835.a(queuebuf.o)
+ .debug_line    0x0000000000004804      0x115 build/cooja/mtype835.a(packetbuf.o)
+ .debug_line    0x0000000000004919      0x141 build/cooja/mtype835.a(netstack.o)
+ .debug_line    0x0000000000004a5a       0x80 build/cooja/mtype835.a(linkaddr.o)
+ .debug_line    0x0000000000004ada      0x1c0 build/cooja/mtype835.a(csma.o)
+ .debug_line    0x0000000000004c9a      0x3a1 build/cooja/mtype835.a(csma-output.o)
+ .debug_line    0x000000000000503b      0x363 build/cooja/mtype835.a(uip-ds6.o)
+ .debug_line    0x000000000000539e       0xe4 build/cooja/mtype835.a(uip-udp-packet.)
+ .debug_line    0x0000000000005482      0x23c build/cooja/mtype835.a(uip-ds6-route.o)
+ .debug_line    0x00000000000056be      0x358 build/cooja/mtype835.a(tcpip.o)
+ .debug_line    0x0000000000005a16      0x5aa build/cooja/mtype835.a(uip6.o)
+ .debug_line    0x0000000000005fc0      0x2b4 build/cooja/mtype835.a(uip-ds6-nbr.o)
+ .debug_line    0x0000000000006274      0x2d3 build/cooja/mtype835.a(uip-nd6.o)
+ .debug_line    0x0000000000006547      0xa06 build/cooja/mtype835.a(sicslowpan.o)
+ .debug_line    0x0000000000006f4d      0x1d4 build/cooja/mtype835.a(uiplib.o)
+ .debug_line    0x0000000000007121      0x32a build/cooja/mtype835.a(rpl.o)
+ .debug_line    0x000000000000744b      0x437 build/cooja/mtype835.a(rpl-icmp6.o)
+ .debug_line    0x0000000000007882      0x1f8 build/cooja/mtype835.a(rpl-dag-root.o)
+ .debug_line    0x0000000000007a7a       0xa7 build/cooja/mtype835.a(watchdog.o)
+ .debug_line    0x0000000000007b21       0xad build/cooja/mtype835.a(int-master.o)
+ .debug_line    0x0000000000007bce      0x16e build/cooja/mtype835.a(coap-timer-defa)
+ .debug_line    0x0000000000007d3c       0x7d build/cooja/mtype835.a(stimer.o)
+ .debug_line    0x0000000000007db9       0xa0 build/cooja/mtype835.a(ringbuf.o)
+ .debug_line    0x0000000000007e59       0x51 build/cooja/mtype835.a(assert.o)
+ .debug_line    0x0000000000007eaa      0x255 build/cooja/mtype835.a(nbr-table.o)
+ .debug_line    0x00000000000080ff      0x224 build/cooja/mtype835.a(link-stats.o)
+ .debug_line    0x0000000000008323      0x129 build/cooja/mtype835.a(mac-sequence.o)
+ .debug_line    0x000000000000844c       0x5c build/cooja/mtype835.a(mac.o)
+ .debug_line    0x00000000000084a8      0x195 build/cooja/mtype835.a(framer-802154.o)
+ .debug_line    0x000000000000863d      0x2cd build/cooja/mtype835.a(frame802154.o)
+ .debug_line    0x000000000000890a       0xca build/cooja/mtype835.a(csma-security.o)
+ .debug_line    0x00000000000089d4      0x152 build/cooja/mtype835.a(uipbuf.o)
+ .debug_line    0x0000000000008b26      0x30d build/cooja/mtype835.a(uip-icmp6.o)
+ .debug_line    0x0000000000008e33      0x31b build/cooja/mtype835.a(uip-sr.o)
+ .debug_line    0x000000000000914e      0x182 build/cooja/mtype835.a(uip-packetqueue)
+ .debug_line    0x00000000000092d0      0x205 build/cooja/mtype835.a(rpl-nbr-policy.)
+ .debug_line    0x00000000000094d5      0x39d build/cooja/mtype835.a(rpl-neighbor.o)
+ .debug_line    0x0000000000009872      0x437 build/cooja/mtype835.a(rpl-dag.o)
+ .debug_line    0x0000000000009ca9      0x31d build/cooja/mtype835.a(rpl-timers.o)
+ .debug_line    0x0000000000009fc6      0x4ad build/cooja/mtype835.a(rpl-ext-header.)
+ .debug_line    0x000000000000a473      0x286 build/cooja/mtype835.a(rpl-mrhof.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x9c69
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x8fa light_node.o
+                                        0xad9 (size before relaxing)
+ .debug_str     0x00000000000008fa     0x177a build/cooja/mtype835.o
+                                       0x1977 (size before relaxing)
+ .debug_str     0x0000000000002074       0x36 build/cooja/mtype835.a(simEnvChange.o)
+                                        0x20f (size before relaxing)
+ .debug_str     0x00000000000020aa       0x5e build/cooja/mtype835.a(cooja_mt.o)
+                                        0x210 (size before relaxing)
+ .debug_str     0x0000000000002108       0x9d build/cooja/mtype835.a(cooja_mtarch.o)
+                                        0x215 (size before relaxing)
+ .debug_str     0x00000000000021a5      0x115 build/cooja/mtype835.a(rtimer-arch.o)
+                                        0x262 (size before relaxing)
+ .debug_str     0x00000000000022ba       0xcc build/cooja/mtype835.a(beep.o)
+                                        0x259 (size before relaxing)
+ .debug_str     0x0000000000002386       0xa4 build/cooja/mtype835.a(leds-arch.o)
+                                        0x266 (size before relaxing)
+ .debug_str     0x000000000000242a       0x4f build/cooja/mtype835.a(moteid.o)
+                                        0x20f (size before relaxing)
+ .debug_str     0x0000000000002479       0x5d build/cooja/mtype835.a(pir-sensor.o)
+                                        0x246 (size before relaxing)
+ .debug_str     0x00000000000024d6       0xc9 build/cooja/mtype835.a(rs232.o)
+                                        0x29a (size before relaxing)
+ .debug_str     0x000000000000259f       0x5d build/cooja/mtype835.a(vib-sensor.o)
+                                        0x246 (size before relaxing)
+ .debug_str     0x00000000000025fc       0x79 build/cooja/mtype835.a(clock.o)
+                                        0x23b (size before relaxing)
+ .debug_str     0x0000000000002675       0xdf build/cooja/mtype835.a(cooja-log.o)
+                                        0x2c6 (size before relaxing)
+ .debug_str     0x0000000000002754      0x114 build/cooja/mtype835.a(cfs-cooja.o)
+                                        0x2dc (size before relaxing)
+ .debug_str     0x0000000000002868      0x780 build/cooja/mtype835.a(cooja-radio.o)
+                                        0xa80 (size before relaxing)
+ .debug_str     0x0000000000002fe8       0xa1 build/cooja/mtype835.a(eeprom.o)
+                                        0x25c (size before relaxing)
+ .debug_str     0x0000000000003089       0x3c build/cooja/mtype835.a(random.o)
+                                        0x174 (size before relaxing)
+ .debug_str     0x00000000000030c5       0xa2 build/cooja/mtype835.a(sensors.o)
+                                        0x2a4 (size before relaxing)
+ .debug_str     0x0000000000003167       0x93 build/cooja/mtype835.a(leds.o)
+                                        0x22f (size before relaxing)
+ .debug_str     0x00000000000031fa      0x2ae build/cooja/mtype835.a(gpio-hal-arch.o)
+                                        0x421 (size before relaxing)
+ .debug_str     0x00000000000034a8      0x115 build/cooja/mtype835.a(buttons.o)
+                                        0x3dd (size before relaxing)
+ .debug_str     0x00000000000035bd      0x3ee build/cooja/mtype835.a(res_bulbSwitch.)
+                                        0xbd1 (size before relaxing)
+ .debug_str     0x00000000000039ab       0x44 build/cooja/mtype835.a(res_light.o)
+                                        0xbb7 (size before relaxing)
+ .debug_str     0x00000000000039ef       0xbd build/cooja/mtype835.a(coap-blocking-a)
+                                        0x799 (size before relaxing)
+ .debug_str     0x0000000000003aac      0x327 build/cooja/mtype835.a(coap-engine.o)
+                                        0xe1e (size before relaxing)
+ .debug_str     0x0000000000003dd3       0x71 build/cooja/mtype835.a(coap-res-well-k)
+                                        0xbfb (size before relaxing)
+ .debug_str     0x0000000000003e44      0x1fc build/cooja/mtype835.a(coap-observe.o)
+                                        0xd0c (size before relaxing)
+ .debug_str     0x0000000000004040      0x45d build/cooja/mtype835.a(coap-uip.o)
+                                        0xa0f (size before relaxing)
+ .debug_str     0x000000000000449d       0xc0 build/cooja/mtype835.a(coap-timer.o)
+                                        0x2c6 (size before relaxing)
+ .debug_str     0x000000000000455d      0x125 build/cooja/mtype835.a(coap-transactio)
+                                        0x849 (size before relaxing)
+ .debug_str     0x0000000000004682      0x5e0 build/cooja/mtype835.a(coap.o)
+                                        0xe78 (size before relaxing)
+ .debug_str     0x0000000000004c62      0x4d3 build/cooja/mtype835.a(contiki-main.o)
+                                        0xd4d (size before relaxing)
+ .debug_str     0x0000000000005135       0x41 build/cooja/mtype835.a(autostart.o)
+                                        0x1d0 (size before relaxing)
+ .debug_str     0x0000000000005176       0xcc build/cooja/mtype835.a(ctimer.o)
+                                        0x2d1 (size before relaxing)
+ .debug_str     0x0000000000005242      0x1ba build/cooja/mtype835.a(log.o)
+                                        0x384 (size before relaxing)
+ .debug_str     0x00000000000053fc       0x56 build/cooja/mtype835.a(energest.o)
+                                        0x197 (size before relaxing)
+ .debug_str     0x0000000000005452      0x13f build/cooja/mtype835.a(etimer.o)
+                                        0x344 (size before relaxing)
+ .debug_str     0x0000000000005591       0x2d build/cooja/mtype835.a(node-id.o)
+                                        0x194 (size before relaxing)
+ .debug_str     0x00000000000055be       0xb9 build/cooja/mtype835.a(rtimer.o)
+                                        0x21b (size before relaxing)
+ .debug_str     0x0000000000005677      0x15d build/cooja/mtype835.a(process.o)
+                                        0x306 (size before relaxing)
+ .debug_str     0x00000000000057d4       0x1e build/cooja/mtype835.a(timer.o)
+                                        0x1bf (size before relaxing)
+ .debug_str     0x00000000000057f2       0xbd build/cooja/mtype835.a(list.o)
+                                        0x216 (size before relaxing)
+ .debug_str     0x00000000000058af       0x63 build/cooja/mtype835.a(memb.o)
+                                        0x1b0 (size before relaxing)
+ .debug_str     0x0000000000005912      0x1d2 build/cooja/mtype835.a(button-hal.o)
+                                        0x4e5 (size before relaxing)
+ .debug_str     0x0000000000005ae4       0xa3 build/cooja/mtype835.a(serial-line.o)
+                                        0x28f (size before relaxing)
+ .debug_str     0x0000000000005b87       0xf5 build/cooja/mtype835.a(gpio-hal.o)
+                                        0x2e5 (size before relaxing)
+ .debug_str     0x0000000000005c7c      0x1d3 build/cooja/mtype835.a(queuebuf.o)
+                                        0x505 (size before relaxing)
+ .debug_str     0x0000000000005e4f      0x1bd build/cooja/mtype835.a(packetbuf.o)
+                                        0x542 (size before relaxing)
+ .debug_str     0x000000000000600c      0x170 build/cooja/mtype835.a(netstack.o)
+                                        0x470 (size before relaxing)
+ .debug_str     0x000000000000617c       0x59 build/cooja/mtype835.a(linkaddr.o)
+                                        0x1d1 (size before relaxing)
+ .debug_str     0x00000000000061d5       0x98 build/cooja/mtype835.a(csma.o)
+                                        0x7c8 (size before relaxing)
+ .debug_str     0x000000000000626d      0x28b build/cooja/mtype835.a(csma-output.o)
+                                        0x868 (size before relaxing)
+ .debug_str     0x00000000000064f8      0x3f8 build/cooja/mtype835.a(uip-ds6.o)
+                                        0x702 (size before relaxing)
+ .debug_str     0x00000000000068f0       0x7d build/cooja/mtype835.a(uip-udp-packet.)
+                                        0x2a2 (size before relaxing)
+ .debug_str     0x000000000000696d      0x22b build/cooja/mtype835.a(uip-ds6-route.o)
+                                        0x5f5 (size before relaxing)
+ .debug_str     0x0000000000006b98      0x2b8 build/cooja/mtype835.a(tcpip.o)
+                                        0xa04 (size before relaxing)
+ .debug_str     0x0000000000006e50      0x200 build/cooja/mtype835.a(uip6.o)
+                                        0xa42 (size before relaxing)
+ .debug_str     0x0000000000007050      0x205 build/cooja/mtype835.a(uip-ds6-nbr.o)
+                                        0x8a1 (size before relaxing)
+ .debug_str     0x0000000000007255      0x126 build/cooja/mtype835.a(uip-nd6.o)
+                                        0x60e (size before relaxing)
+ .debug_str     0x000000000000737b      0x592 build/cooja/mtype835.a(sicslowpan.o)
+                                        0xf3f (size before relaxing)
+ .debug_str     0x000000000000790d       0x99 build/cooja/mtype835.a(uiplib.o)
+                                        0x21b (size before relaxing)
+ .debug_str     0x00000000000079a6      0x2bb build/cooja/mtype835.a(rpl.o)
+                                        0xbb6 (size before relaxing)
+ .debug_str     0x0000000000007c61      0x1e6 build/cooja/mtype835.a(rpl-icmp6.o)
+                                        0xc76 (size before relaxing)
+ .debug_str     0x0000000000007e47       0xaa build/cooja/mtype835.a(rpl-dag-root.o)
+                                        0x867 (size before relaxing)
+ .debug_str     0x0000000000007ef1       0x7f build/cooja/mtype835.a(watchdog.o)
+                                        0x1ca (size before relaxing)
+ .debug_str     0x0000000000007f70       0x91 build/cooja/mtype835.a(int-master.o)
+                                        0x1f3 (size before relaxing)
+ .debug_str     0x0000000000008001       0x76 build/cooja/mtype835.a(coap-timer-defa)
+                                        0x2b3 (size before relaxing)
+ .debug_str     0x0000000000008077       0x75 build/cooja/mtype835.a(stimer.o)
+                                        0x1c3 (size before relaxing)
+ .debug_str     0x00000000000080ec       0x63 build/cooja/mtype835.a(ringbuf.o)
+                                        0x1d2 (size before relaxing)
+ .debug_str     0x000000000000814f       0x2f build/cooja/mtype835.a(assert.o)
+                                        0x16c (size before relaxing)
+ .debug_str     0x000000000000817e      0x275 build/cooja/mtype835.a(nbr-table.o)
+                                        0x5b8 (size before relaxing)
+ .debug_str     0x00000000000083f3      0x132 build/cooja/mtype835.a(link-stats.o)
+                                        0x6cc (size before relaxing)
+ .debug_str     0x0000000000008525       0x79 build/cooja/mtype835.a(mac-sequence.o)
+                                        0x392 (size before relaxing)
+ .debug_str     0x000000000000859e       0x3e build/cooja/mtype835.a(mac.o)
+                                        0x19d (size before relaxing)
+ .debug_str     0x00000000000085dc      0x236 build/cooja/mtype835.a(framer-802154.o)
+                                        0x5da (size before relaxing)
+ .debug_str     0x0000000000008812      0x1fb build/cooja/mtype835.a(frame802154.o)
+                                        0x589 (size before relaxing)
+ .debug_str     0x0000000000008a0d       0x64 build/cooja/mtype835.a(csma-security.o)
+                                        0x36a (size before relaxing)
+ .debug_str     0x0000000000008a71      0x1b3 build/cooja/mtype835.a(uipbuf.o)
+                                        0x468 (size before relaxing)
+ .debug_str     0x0000000000008c24      0x1f6 build/cooja/mtype835.a(uip-icmp6.o)
+                                        0x935 (size before relaxing)
+ .debug_str     0x0000000000008e1a      0x184 build/cooja/mtype835.a(uip-sr.o)
+                                        0x72a (size before relaxing)
+ .debug_str     0x0000000000008f9e       0xfc build/cooja/mtype835.a(uip-packetqueue)
+                                        0x354 (size before relaxing)
+ .debug_str     0x000000000000909a       0xad build/cooja/mtype835.a(rpl-nbr-policy.)
+                                        0x9c8 (size before relaxing)
+ .debug_str     0x0000000000009147      0x297 build/cooja/mtype835.a(rpl-neighbor.o)
+                                        0xa3e (size before relaxing)
+ .debug_str     0x00000000000093de      0x2d9 build/cooja/mtype835.a(rpl-dag.o)
+                                        0xb66 (size before relaxing)
+ .debug_str     0x00000000000096b7      0x32a build/cooja/mtype835.a(rpl-timers.o)
+                                        0xa32 (size before relaxing)
+ .debug_str     0x00000000000099e1      0x1bb build/cooja/mtype835.a(rpl-ext-header.)
+                                        0xf77 (size before relaxing)
+ .debug_str     0x0000000000009b9c       0xcd build/cooja/mtype835.a(rpl-mrhof.o)
+                                        0x72f (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x100
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x18 build/cooja/mtype835.a(etimer.o)
+ .debug_ranges  0x0000000000000018       0x30 build/cooja/mtype835.a(csma-output.o)
+ .debug_ranges  0x0000000000000048       0x18 build/cooja/mtype835.a(tcpip.o)
+ .debug_ranges  0x0000000000000060       0x28 build/cooja/mtype835.a(uip-nd6.o)
+ .debug_ranges  0x0000000000000088       0x48 build/cooja/mtype835.a(sicslowpan.o)
+ .debug_ranges  0x00000000000000d0       0x30 build/cooja/mtype835.a(nbr-table.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(build/cooja/mtype835.cooja elf32-i386)
