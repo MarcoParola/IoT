@@ -5,9 +5,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
-/* Log configuration */
 #include "sys/log.h"
+#include "os/dev/leds.h"
 
 #define LOG_MODULE "BulbSwitch actuator"
 #define LOG_LEVEL LOG_LEVEL_DBG
@@ -73,12 +72,31 @@ static void res_post_put_handler(coap_message_t *request,coap_message_t *respons
     if ((len = coap_get_post_variable(request,"\"mode\"",&value))) {
         if (strncmp(value, "\"OFF\"", len) == 0) {
             bulbSwitch_mode = 0;
+			leds_single_off(LEDS_GREEN);
+			leds_single_off(LEDS_RED);
+			leds_single_off(LEDS_YELLOW);
+
         } else if (strncmp(value, "\"LOW\"", len) == 0) {
             bulbSwitch_mode = 1;
+			leds_single_off(LEDS_GREEN);
+			leds_single_off(LEDS_RED);
+			leds_single_off(LEDS_YELLOW);
+			leds_single_on(LEDS_GREEN);
+
         } else if (strncmp(value, "\"MEDIUM\"", len) == 0) {
             bulbSwitch_mode = 2;
+			leds_single_off(LEDS_GREEN);
+			leds_single_off(LEDS_RED);
+			leds_single_off(LEDS_YELLOW);
+			leds_single_on(LEDS_YELLOW);
+
         }else if (strncmp(value, "\"HIGH\"", len) == 0) {
             bulbSwitch_mode = 3;
+			leds_single_off(LEDS_GREEN);
+			leds_single_off(LEDS_RED);
+			leds_single_off(LEDS_YELLOW);
+			leds_single_on(LEDS_RED);
+
         }else
             success = 0;
     } else

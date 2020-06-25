@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "sys/log.h"
+#include "os/dev/leds.h"
 
 #define LOG_MODULE "Music actuator"
 #define LOG_LEVEL LOG_LEVEL_DBG
@@ -64,8 +65,12 @@ static void res_post_put_handler(coap_message_t *request,coap_message_t *respons
     if ((len = coap_get_post_variable(request,"\"mode\"",&value))) {
         if (strncmp(value, "\"OFF\"", len) == 0) {
             res_mode = 0;
+			leds_single_on(LEDS_RED);
+			leds_single_off(LEDS_GREEN);
         } else if (strncmp(value, "\"ON\"", len) == 0) {
             res_mode = 1;
+			leds_single_off(LEDS_RED);
+			leds_single_on(LEDS_GREEN);
         }else
             success = 0;
     } else

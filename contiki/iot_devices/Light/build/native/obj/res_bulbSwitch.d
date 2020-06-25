@@ -28,7 +28,8 @@ build/native/obj/res_bulbSwitch.o: resources/res_bulbSwitch.c \
  ../../../../../os/net/app-layer/coap/coap-observe.h \
  ../../../../../os/net/app-layer/coap/coap-separate.h \
  ../../../../../os/net/app-layer/coap/coap-observe-client.h \
- ../../../../../os/sys/log.h ../../../../../os/sys/log-conf.h
+ ../../../../../os/sys/log.h ../../../../../os/sys/log-conf.h \
+ ../../../../../os/dev/leds.h ../../../../../os/dev/gpio-hal.h
 resources/res_bulbSwitch.c :
  ../../../../../os/net/app-layer/coap/module-macros.h :
  ../../../../../os/contiki.h :
@@ -60,3 +61,4 @@ resources/res_bulbSwitch.c :
  ../../../../../os/net/app-layer/coap/coap-separate.h :
  ../../../../../os/net/app-layer/coap/coap-observe-client.h :
  ../../../../../os/sys/log.h ../../../../../os/sys/log-conf.h :
+ ../../../../../os/dev/leds.h ../../../../../os/dev/gpio-hal.h :

@@ -2,12 +2,10 @@
 #include "coap-engine.h"
 #include "contiki-net.h"
 #include "contiki.h"
-
+#include "os/dev/leds.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
-/* Log configuration */
 #include "sys/log.h"
 
 #define LOG_MODULE "Music node"
@@ -44,6 +42,8 @@ PROCESS_THREAD(music_node, ev, data) {
 	coap_activate_resource(&res_music, "actuator/music");
 
     coap_endpoint_parse(SERVER_EP, strlen(SERVER_EP), &server_ep);
+
+	leds_single_on(LEDS_RED);
 
     do {
         coap_init_message(request, COAP_TYPE_CON, COAP_GET, 0);
